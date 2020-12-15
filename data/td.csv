@@ -1,0 +1,892 @@
+"TDate","Nat","Name","InOut","ClubFrom","DivFrom","ClubTo","DivTo","Amount","ClubFromID","ClubToID","Year_F"
+"01/07","Pays-Bas","R.  van Persie","in","Netherlands","Other","Arsenal","England",4.2,100,1,2004
+"14/07","Suisse","Johan Djourou","in","Switzerland","Other","Arsenal","England",0,102,1,2004
+"22/07","France","Mathieu Flamini","in","Marseille","France","Arsenal","England",2.3,70,1,2004
+"01/01","Côte d'Ivoire","Emmanuel Eboué","in","Belgium","Other","Arsenal","England",2.2,103,1,2004
+"22/05","Danemark","Martin Laursen","in","AC Milan","Italy","Aston Villa","England",4.2,41,2,2004
+"05/08","France","Mathieu Berson","in","Nantes","France","Aston Villa","England",2.3,73,2,2004
+"31/01","Cameroun","Djemba-Djemba","in","Man United","England","Aston Villa","England",2,13,2,2004
+"24/06","Angleterre","Julian Gray","in","Crystal Palace","England","Birmingham City","England",0,8,3,2004
+"01/07","Angleterre","Emile Heskey","in","Liverpool","England","Birmingham City","England",0,11,3,2004
+"09/07","Pays-Bas","Mario Melchiot","in","Chelsea","England","Birmingham City","England",0,7,3,2004
+"12/07","Danemark","J.  Grönkjaer","in","Chelsea","England","Birmingham City","England",3.3,7,3,2004
+"31/08","Trinité et Tobago","Dwight Yorke","in","Blackburn","England","Birmingham City","England",0.375,4,3,2004
+"27/08","Norvège","M. G.  Pedersen","in","Norway","Other","Blackburn","England",3,110,4,2004
+"04/01","Afrique du Sud","Aaron Mokoena","in","Belgium","Other","Blackburn","England",0,103,4,2004
+"06/01","Nouvelle-Zélande","Ryan Nelsen","in","United States","Other","Blackburn","England",0,111,4,2004
+"21/07","Pays de Galles","Gary Speed","in","Newcastle United","England","Bolton Wanderers","England",1.1,15,5,2004
+"15/08","Sénégal","El-Hadji Diouf","in","Liverpool","England","Bolton Wanderers","England",4.8,11,5,2004
+"31/01","France","Vincent Candela","in","AS Roma","Italy","Bolton Wanderers","England",0,42,5,2004
+"31/05","Danemark","S.  Andersen","in","Denmark","Other","Charlton","England",1,112,6,2004
+"02/07","Danemark","D.  Rommedahl","in","Netherlands","Other","Charlton","England",3.5,100,6,2004
+"10/07","Maroc","T.  El-Karkouri","in","Paris S-G","France","Charlton","England",0,75,6,2004
+"10/08","Angleterre","Danny Murphy","in","Liverpool","England","Charlton","England",3.3,11,6,2004
+"11/08","Angleterre","Francis Jeffers","in","Arsenal","England","Charlton","England",3.9,1,6,2004
+"07/06","Portugal","Paulo Ferreira","in","Portugal","Other","Chelsea","England",20,106,7,2004
+"01/07","République tchèque","Petr Cech","in","Rennes","France","Chelsea","England",13,76,7,2004
+"03/07","Côte d'Ivoire","Didier Drogba","in","Marseille","France","Chelsea","England",37,70,7,2004
+"12/07","Serbie","Mateja Kezman","in","Netherlands","Other","Chelsea","England",7.5,100,7,2004
+"21/07","Portugal","Tiago","in","Portugal","Other","Chelsea","England",15,106,7,2004
+"27/07","Portugal","R.  Carvalho","in","Portugal","Other","Chelsea","England",30,106,7,2004
+"03/08","Pays-Bas","Arjen Robben","in","Netherlands","Other","Chelsea","England",18.5,100,7,2004
+"06/01","République tchèque","Jiri Jarosik","in","Russia","Other","Chelsea","England",12,113,7,2004
+"12/07","Argentine","Julián Speroni","in","Scotland","Other","Crystal Palace","England",0.7377,101,8,2004
+"13/07","Finlande","Joonas Kolkka","in","M'gladbach","Germany","Crystal Palace","England",0.63,86,8,2004
+"12/08","Angleterre","Fitz Hall","in","Southampton","England","Crystal Palace","England",2.3,18,8,2004
+"30/09","Grèce","Vassilios Lakis","in","Greece","Other","Crystal Palace","England",0,108,8,2004
+"04/08","Australie","Eddy Bosnar","in","Austria","Other","Everton","England",0,107,9,2004
+"04/01","Angleterre","James Beattie","in","Southampton","England","Everton","England",9,18,9,2004
+"28/01","France","G.  Plessis","in","Lens","France","Everton","England",0,67,9,2004
+"18/07","Angleterre","Andy Cole","in","Blackburn","England","Fulham","England",0,4,10,2004
+"23/07","Danemark","Claus Jensen","in","Charlton","England","Fulham","England",1.9,6,10,2004
+"23/07","Canada","T.  Radzinski","in","Everton","England","Fulham","England",3,9,10,2004
+"27/07","Sénégal","Papa Bouba Diop","in","Lens","France","Fulham","England",9,67,10,2004
+"01/07","France","Djibril Cissé","in","Auxerre","France","Liverpool","England",20,62,11,2004
+"24/07","Espagne","Josemi","in","Málaga","Spain","Liverpool","England",3,33,11,2004
+"17/08","Espagne","Antonio Núñez","in","Real Madrid","Spain","Liverpool","England",0,37,11,2004
+"20/08","Espagne","Luis García","in","FC Barcelona","Spain","Liverpool","England",9,27,11,2004
+"05/01","Argentine","M.  Pellegrino","in","Valencia CF","Spain","Liverpool","England",0,29,11,2004
+"13/01","Espagne","F.  Morientes","in","Real Madrid","Spain","Liverpool","England",9.5,37,11,2004
+"21/06","Belgique","G.  De Vlieger","in","Netherlands","Other","Manchester City","England",0,100,12,2004
+"01/07","Angleterre","Nedum Onuoha","in","United States","Other","Manchester City","England",0,111,12,2004
+"01/07","Angleterre","Wright-Phillips","in","United States","Other","Manchester City","England",0,111,12,2004
+"25/08","Pays-Bas","R.  Waterreus","in","Netherlands","Other","Manchester City","England",0,100,12,2004
+"11/06","Argentine","Gabriel Heinze","in","Paris S-G","France","Man United","England",10,75,13,2004
+"01/07","Irlande","Liam Miller","in","Scotland","Other","Man United","England",0,101,13,2004
+"31/08","Angleterre","Wayne Rooney","in","Everton","England","Man United","England",37,9,13,2004
+"06/07","Pays-Bas","M.  Reiziger","in","FC Barcelona","Spain","Middlesbrough","England",0,27,14,2004
+"09/07","Pays-Bas","Hasselbaink","in","Chelsea","England","Middlesbrough","England",0,7,14,2004
+"23/07","Angleterre","Ray Parlour","in","Arsenal","England","Middlesbrough","England",0,1,14,2004
+"01/07","Pays-Bas","P.  Kluivert","in","FC Barcelona","Spain","Newcastle United","England",0,27,15,2004
+"27/07","Angleterre","Nicky Butt","in","Man United","England","Newcastle United","England",3.8,13,15,2004
+"10/08","Irlande","Stephen Carr","in","Tottenham","England","Newcastle United","England",3,19,15,2004
+"19/09","Norvège","Ronny Johnsen","in","Aston Villa","England","Newcastle United","England",0,2,15,2004
+"01/01","Nigeria","C.  Babayaro","in","Chelsea","England","Newcastle United","England",0,7,15,2004
+"01/01","France","J.-A. Boumsong","in","Scotland","Other","Newcastle United","England",12,101,15,2004
+"25/01","Sénégal","Amdy Faye","in","Portsmouth","England","Newcastle United","England",3,17,15,2004
+"02/06","Ecosse","Paul Gallacher","in","Scotland","Other","Norwich City","England",0,101,16,2004
+"22/07","Danemark","Thomas Helveg","in","Inter Milan","Italy","Norwich City","England",0,49,16,2004
+"05/08","Suède","Mattias Jonson","in","Denmark","Other","Norwich City","England",0,112,16,2004
+"20/08","Irlande","Gary Doherty","in","Tottenham","England","Norwich City","England",0,19,16,2004
+"31/01","Angleterre","Graham Stuart","in","Charlton","England","Norwich City","England",0,6,16,2004
+"26/05","Angleterre","Andy Griffin","in","Newcastle United","England","Portsmouth","England",0,15,17,2004
+"01/07","Angleterre","Jason Pearce","in","Charlton","England","Portsmouth","England",0,6,17,2004
+"12/07","Angleterre","David Unsworth","in","Everton","England","Portsmouth","England",0,9,17,2004
+"28/01","Grèce","K.  Chalkias","in","Greece","Other","Portsmouth","England",0,108,17,2004
+"28/01","Grèce","I.  Skopelitis","in","Greece","Other","Portsmouth","England",1.5,108,17,2004
+"08/06","Belgique","Jelle van Damme","in","Netherlands","Other","Southampton","England",3,100,18,2004
+"09/07","Angleterre","Peter Crouch","in","Aston Villa","England","Southampton","England",3,2,18,2004
+"31/08","Suède","A.  Jakobsson","in","Denmark","Other","Southampton","England",1.5,112,18,2004
+"04/01","Angleterre","Jamie Redknapp","in","Tottenham","England","Southampton","England",0,19,18,2004
+"17/01","Ecosse","Nigel Quashie","in","Portsmouth","England","Southampton","England",3,17,18,2004
+"31/01","France","Olivier Bernard","in","Newcastle United","England","Southampton","England",0,15,18,2004
+"09/07","Angleterre","Sean Davis","in","Fulham","England","Tottenham","England",0,10,19,2004
+"09/07","Portugal","Pedro Mendes","in","Portugal","Other","Tottenham","England",3.5,106,19,2004
+"30/07","Suède","Erik Edman","in","Netherlands","Other","Tottenham","England",0,100,19,2004
+"07/08","Cameroun","T.  Atouba","in","Switzerland","Other","Tottenham","England",4.5,102,19,2004
+"11/08","Maroc","N.  Naybet","in","Depor","Spain","Tottenham","England",0,25,19,2004
+"13/08","Portugal","Edson","in","Netherlands","Other","Tottenham","England",0,100,19,2004
+"24/08","France","Noé Pamarot","in","Nice","France","Tottenham","England",2.4,74,19,2004
+"31/08","Suisse","Reto Ziegler","in","Switzerland","Other","Tottenham","England",1,102,19,2004
+"03/06","Danemark","M.  Albrechtsen","in","Denmark","Other","WBA","England",3.7,112,20,2004
+"28/07","Angleterre","J.  Greening","in","Middlesbrough","England","WBA","England",1.8,14,20,2004
+"11/01","Angleterre","Kevin Campbell","in","Everton","England","WBA","England",0,9,20,2004
+"18/08","Espagne","Gaspar","in","Atlético Madrid","Spain","Albacete","Spain",0,23,21,2004
+"26/08","Espagne","Jaime","in","Hannover 96","Germany","Albacete","Spain",0,89,21,2004
+"01/01","Espagne","Ángel Pindado","in","Belgium","Other","Albacete","Spain",0,103,21,2004
+"14/01","Espagne","Santi","in","Atlético Madrid","Spain","Albacete","Spain",0,23,21,2004
+"31/01","Uruguay","Horacio Peralta","in","Cagliari","Italy","Albacete","Spain",0,46,21,2004
+"15/06","Argentine","Leo Franco","in","Mallorca","Spain","Atlético Madrid","Spain",0,32,23,2004
+"07/07","Espagne","Pablo Ibáñez","in","Albacete","Spain","Atlético Madrid","Spain",3.5,21,23,2004
+"08/07","Colombie","L. A.  Perea","in","Argentina","Other","Atlético Madrid","Spain",0,105,23,2004
+"18/07","Espagne","Antonio López","in","Osasuna","Spain","Atlético Madrid","Spain",0,35,23,2004
+"19/07","Uruguay","Marcelo Sosa","in","Russia","Other","Atlético Madrid","Spain",0,113,23,2004
+"27/01","Uruguay","Richard Núñez","in","Switzerland","Other","Atlético Madrid","Spain",0,102,23,2004
+"01/07","Espagne","Pablo Niño","in","Netherlands","Other","Real Betis","Spain",0,100,24,2004
+"13/07","Italie","P.  Castellini","in","Brescia","Italy","Real Betis","Spain",0,45,24,2004
+"27/07","Brésil","Ricardo Oliveira","in","Valencia CF","Spain","Real Betis","Spain",4,29,24,2004
+"31/01","Argentine","F.  Coloccini","in","AC Milan","Italy","Depor","Spain",4,41,25,2004
+"31/08","Espagne","J. E.  Amavisca","in","Depor","Spain","Espanyol","Spain",0,25,26,2004
+"22/06","Brésil","Belletti","in","Villarreal","Spain","FC Barcelona","Spain",4,40,27,2004
+"29/06","France","Ludovic Giuly","in","Monaco","France","FC Barcelona","Spain",8.5,72,27,2004
+"30/06","Suède","Henrik Larsson","in","Scotland","Other","FC Barcelona","Spain",0,101,27,2004
+"03/07","Cameroun","Samuel Eto'o","in","Mallorca","Spain","FC Barcelona","Spain",27,32,27,2004
+"06/07","Portugal","Deco","in","Portugal","Other","FC Barcelona","Spain",15,106,27,2004
+"29/07","Brésil","Edmílson","in","Lyon","France","FC Barcelona","Spain",8,69,27,2004
+"24/01","Italie","D.  Albertini","in","Atalanta","Italy","FC Barcelona","Spain",0,43,27,2004
+"28/01","Argentine","Maxi López","in","Argentina","Other","FC Barcelona","Spain",6.5,105,27,2004
+"29/06","Espagne","Carlos Aranda","in","Albacete","Spain","Sevilla FC","Spain",0.725,21,28,2004
+"01/07","Espagne","Jordi López","in","Real Madrid","Spain","Sevilla FC","Spain",0,37,28,2004
+"07/07","Brésil","Renato","in","Brazil","Other","Sevilla FC","Spain",0,99,28,2004
+"21/01","Brésil","Adriano","in","Brazil","Other","Sevilla FC","Spain",2.1,99,28,2004
+"07/07","Italie","B.  Corradi","in","Lazio","Italy","Valencia CF","Spain",10,51,29,2004
+"07/07","Italie","Stefano Fiore","in","Lazio","Italy","Valencia CF","Spain",8,51,29,2004
+"20/07","Italie","Marco Di Vaio","in","Juventus","Italy","Valencia CF","Spain",10.5,50,29,2004
+"21/07","Italie","E.  Moretti","in","Bologna","Italy","Valencia CF","Spain",0,44,29,2004
+"27/07","Portugal","Marco Caneira","in","Bordeaux","France","Valencia CF","Spain",2,64,29,2004
+"01/07","Cameroun","Daniel Kome","in","Numancia","Spain","Getafe","Spain",0,34,30,2004
+"30/07","Espagne","Riki","in","Real Madrid","Spain","Getafe","Spain",0.3,37,30,2004
+"01/07","Espagne","J. A.  Culebras","in","Numancia","Spain","Levante","Spain",0,34,31,2004
+"02/07","Suède","Johan Mjällby","in","Scotland","Other","Levante","Spain",0,101,31,2004
+"16/08","Bulgarie","V.  Manchev","in","Lille","France","Levante","Spain",2.2,68,31,2004
+"30/06","Suisse","Patrick Müller","in","Lyon","France","Mallorca","Spain",0,69,32,2004
+"18/07","Venezuela","Juan Arango","in","Mexico","Other","Mallorca","Spain",0,109,32,2004
+"21/07","Espagne","Marcos Vales","in","Sevilla FC","Spain","Mallorca","Spain",0,28,32,2004
+"27/08","Espagne","S.  Ballesteros","in","Villarreal","Spain","Mallorca","Spain",1,40,32,2004
+"01/01","Brésil","Felipe Melo","in","Brazil","Other","Mallorca","Spain",0,99,32,2004
+"12/01","Italie","Mark Iuliano","in","Juventus","Italy","Mallorca","Spain",0,50,32,2004
+"26/08","Costa Rica","Paulo Wanchope","in","Manchester City","England","Málaga","Spain",0.745,12,33,2004
+"31/01","Brésil","Fernando Baiano","in","Brazil","Other","Málaga","Spain",0,99,33,2004
+"01/07","Espagne","Juanma","in","Atlético Madrid","Spain","Numancia","Spain",0,23,34,2004
+"01/07","Espagne","César Palacios","in","Osasuna","Spain","Numancia","Spain",0,35,34,2004
+"27/08","Argentine","Aldo Osorio","in","Argentina","Other","Numancia","Spain",0,105,34,2004
+"08/09","Grèce","Kostas Kiassos","in","Greece","Other","Numancia","Spain",0,108,34,2004
+"06/07","France","L.  Delporte","in","Albacete","Spain","Osasuna","Spain",0,21,35,2004
+"29/05","Maroc","Walid Regragui","in","AC Ajaccio","France","Racing Santander","Spain",0,61,36,2004
+"01/07","Italie","A.  Pierini","in","Udinese","Italy","Racing Santander","Spain",0,60,36,2004
+"26/07","Espagne","David Aganzo","in","Levante","Spain","Racing Santander","Spain",0,31,36,2004
+"01/01","Mexique","Gerardo Torrado","in","Sevilla FC","Spain","Racing Santander","Spain",0,28,36,2004
+"20/01","Brésil","Argel","in","Portugal","Other","Racing Santander","Spain",0,106,36,2004
+"01/07","Argentine","Walter Samuel","in","AS Roma","Italy","Real Madrid","Spain",27,42,37,2004
+"14/08","Angleterre","Michael Owen","in","Liverpool","England","Real Madrid","Spain",12,11,37,2004
+"20/08","Angleterre","J.  Woodgate","in","Newcastle United","England","Real Madrid","Spain",20,15,37,2004
+"14/01","Danemark","Thomas Gravesen","in","Everton","England","Real Madrid","Spain",3.8,9,37,2004
+"14/07","Espagne","Luis García","in","Numancia","Spain","Real Zaragoza","Spain",0,34,38,2004
+"05/08","Espagne","Javi Moreno","in","Atlético Madrid","Spain","Real Zaragoza","Spain",0,23,38,2004
+"31/05","France","J.  Bréchet","in","Inter Milan","Italy","Real Sociedad","Spain",1.5,49,39,2004
+"01/07","Espagne","Gari Uranga","in","Getafe","Spain","Real Sociedad","Spain",0,30,39,2004
+"08/07","Espagne","Mikel Arteta","in","Scotland","Other","Real Sociedad","Spain",4,101,39,2004
+"31/08","Brésil","Rossato","in","Portugal","Other","Real Sociedad","Spain",0,106,39,2004
+"11/06","Argentine","G.  Rodríguez","in","Argentina","Other","Villarreal","Spain",0,105,40,2004
+"19/06","Mozambique","Armando Sá","in","Portugal","Other","Villarreal","Spain",0,106,40,2004
+"20/08","Uruguay","Diego Forlán","in","Man United","England","Villarreal","Spain",3.2,13,40,2004
+"04/11","Argentine","J. P.  Sorín","in","Brazil","Other","Villarreal","Spain",0,99,40,2004
+"01/12","Argentine","Lucho Figueroa","in","Mexico","Other","Villarreal","Spain",0,109,40,2004
+"01/07","France","Vikash Dhorasoo","in","Lyon","France","AC Milan","Italy",0,69,41,2004
+"01/07","Pays-Bas","Jaap Stam","in","Lazio","Italy","AC Milan","Italy",0,51,41,2004
+"17/06","France","Philippe Mexès","in","Auxerre","France","AS Roma","Italy",0,62,42,2004
+"30/07","Italie","Matteo Ferrari","in","Parma","Italy","AS Roma","Italy",0,56,42,2004
+"03/08","Italie","Simone Perrotta","in","Chievo Verona","Italy","AS Roma","Italy",7.2,47,42,2004
+"31/08","Egypte","Mido","in","Marseille","France","AS Roma","Italy",6,70,42,2004
+"04/07","Italie","Luigi Sala","in","Chievo Verona","Italy","Atalanta","Italy",0,47,43,2004
+"21/07","Italie","D.  Albertini","in","Lazio","Italy","Atalanta","Italy",0,51,43,2004
+"13/01","Brésil","Adriano","in","Palermo","Italy","Atalanta","Italy",0,55,43,2004
+"28/01","Italie","Biagio Pagano","in","Sampdoria","Italy","Atalanta","Italy",0,58,43,2004
+"30/06","Roumanie","V.  Nastase","in","Palermo","Italy","Bologna","Italy",0,55,44,2004
+"01/07","Italie","Federico Giunti","in","Turkey","Other","Bologna","Italy",0,104,44,2004
+"01/07","Italie","Fabio Petruzzi","in","Brescia","Italy","Bologna","Italy",0,45,44,2004
+"01/07","Serbie","Vlado Smit","in","Atalanta","Italy","Bologna","Italy",0,43,44,2004
+"01/07","Italie","Stefano Torrisi","in","Reggina","Italy","Bologna","Italy",0,57,44,2004
+"16/07","Grèce","T.  Zagorakis","in","Greece","Other","Bologna","Italy",0,108,44,2004
+"27/07","Suisse","F.  Zambrella","in","Switzerland","Other","Brescia","Italy",0,102,45,2004
+"24/08","Argentine","Matías Almeyda","in","Argentina","Other","Brescia","Italy",0,105,45,2004
+"25/08","Cameroun","Pierre Womé","in","Espanyol","Spain","Brescia","Italy",0,26,45,2004
+"26/08","Italie","Daniele Adani","in","Inter Milan","Italy","Brescia","Italy",1.5,49,45,2004
+"27/01","Italie","M.  Delvecchio","in","AS Roma","Italy","Brescia","Italy",0,42,45,2004
+"01/07","Uruguay","Horacio Peralta","in","Inter Milan","Italy","Cagliari","Italy",0,49,46,2004
+"10/07","Grèce","Katergiannakis","in","Greece","Other","Cagliari","Italy",0,108,46,2004
+"31/01","Italie","A.  Budel","in","Parma","Italy","Cagliari","Italy",0,56,46,2004
+"16/08","Italie","Matteo Brighi","in","Brescia","Italy","Chievo Verona","Italy",0,45,47,2004
+"01/07","Italie","Dario Dainelli","in","Brescia","Italy","Fiorentina","Italy",5.5,45,48,2004
+"01/07","Uruguay","Gianni Guigou","in","Siena","Italy","Fiorentina","Italy",0,59,48,2004
+"01/07","Italie","C.  Lupatelli","in","AS Roma","Italy","Fiorentina","Italy",0,42,48,2004
+"18/07","Japon","H.  Nakata","in","Bologna","Italy","Fiorentina","Italy",0,44,48,2004
+"30/08","Danemark","M.  Jorgensen","in","Udinese","Italy","Fiorentina","Italy",0,60,48,2004
+"31/08","Italie","F.  Miccoli","in","Juventus","Italy","Fiorentina","Italy",7,50,48,2004
+"30/01","Italie","G.  Pazzini","in","Atalanta","Italy","Fiorentina","Italy",6.5,43,48,2004
+"31/01","Bulgarie","Valéri Bojinov","in","Lecce","Italy","Fiorentina","Italy",14,52,48,2004
+"31/01","Italie","Marco Donadel","in","Sampdoria","Italy","Fiorentina","Italy",0,58,48,2004
+"01/06","Italie","G.  Favalli","in","Lazio","Italy","Inter Milan","Italy",0,51,49,2004
+"03/06","Argentine","J. S.  Verón","in","Chelsea","England","Inter Milan","Italy",0,7,49,2004
+"02/07","Argentine","E.  Cambiasso","in","Real Madrid","Spain","Inter Milan","Italy",0,37,49,2004
+"07/07","Argentine","N.  Burdisso","in","Argentina","Other","Inter Milan","Italy",0,105,49,2004
+"07/07","Pays-Bas","Edgar Davids","in","Juventus","Italy","Inter Milan","Italy",0,50,49,2004
+"08/07","Grèce","Lambros Choutos","in","Greece","Other","Inter Milan","Italy",0,108,49,2004
+"30/07","Serbie","S.  Mihajlovic","in","Lazio","Italy","Inter Milan","Italy",0,51,49,2004
+"31/08","Uruguay","Fabián Carini","in","Belgium","Other","Inter Milan","Italy",0,103,49,2004
+"19/12","Brésil","Júlio César","in","Brazil","Other","Inter Milan","Italy",0,99,49,2004
+"01/07","France","Olivier Kapo","in","Auxerre","France","Juventus","Italy",0,62,50,2004
+"01/07","France","Jonathan Zebina","in","AS Roma","Italy","Juventus","Italy",0,42,50,2004
+"27/07","Brésil","Émerson","in","AS Roma","Italy","Juventus","Italy",0,42,50,2004
+"31/08","Italie","Fabio Cannavaro","in","Inter Milan","Italy","Juventus","Italy",9,49,50,2004
+"31/08","Suède","Z.  Ibrahimovic","in","Netherlands","Other","Juventus","Italy",16,100,50,2004
+"10/08","Italie","Paolo Di Canio","in","Charlton","England","Lazio","Italy",0,6,51,2004
+"31/08","Argentine","González","in","Argentina","Other","Lazio","Italy",0,105,51,2004
+"31/08","Argentine","Braian Robert","in","Argentina","Other","Lazio","Italy",0,105,51,2004
+"31/08","Argentine","L.  Talamonti","in","Argentina","Other","Lazio","Italy",0,105,51,2004
+"22/09","Argentine","Matías Lequi","in","Atlético Madrid","Spain","Lazio","Italy",0,23,51,2004
+"01/01","Italie","Fabio Bazzani","in","Sampdoria","Italy","Lazio","Italy",0,58,51,2004
+"31/08","Italie","Alex Pinardi","in","Atalanta","Italy","Lecce","Italy",0,43,52,2004
+"14/01","Brésil","Angelo","in","Brazil","Other","Lecce","Italy",0,99,52,2004
+"31/01","Chili","Jaime Valdes","in","Fiorentina","Italy","Lecce","Italy",0,48,52,2004
+"31/08","Italie","A.  Lucarelli","in","Fiorentina","Italy","Livorno","Italy",0,48,53,2004
+"01/09","Ghana","Emmanuel Osei","in","Turkey","Other","Livorno","Italy",0,104,53,2004
+"27/01","Brésil","Paulinho","in","Brazil","Other","Livorno","Italy",0,99,53,2004
+"29/06","Japon","A.  Yanagisawa","in","Sampdoria","Italy","Messina","Italy",0,58,54,2004
+"01/07","Italie","A.  Cucciari","in","Siena","Italy","Messina","Italy",0,59,54,2004
+"01/07","Grèce","P.  Gonias","in","Greece","Other","Messina","Italy",0,108,54,2004
+"09/07","Italie","Mirko Conte","in","Sampdoria","Italy","Messina","Italy",0,58,54,2004
+"12/07","Serbie","Ivica Iliev","in","Serbia","Other","Messina","Italy",0,114,54,2004
+"14/07","Grèce","Eleftheropoulos","in","Greece","Other","Messina","Italy",0,108,54,2004
+"15/07","Brésil","Rafael","in","Brazil","Other","Messina","Italy",0,99,54,2004
+"01/06","Brésil","Adriano","in","Brazil","Other","Palermo","Italy",0,99,55,2004
+"30/06","Italie","C.  Zaccardo","in","Bologna","Italy","Palermo","Italy",0.68,44,55,2004
+"01/07","Argentine","M.  González","in","Argentina","Other","Palermo","Italy",0,105,55,2004
+"01/07","Italie","Stefano Morrone","in","Chievo Verona","Italy","Palermo","Italy",0,47,55,2004
+"01/07","Italie","Generoso Rossi","in","Siena","Italy","Palermo","Italy",0,59,55,2004
+"06/07","Argentine","Ernesto Farías","in","Argentina","Other","Palermo","Italy",0,105,55,2004
+"16/07","Italie","Simone Barone","in","Parma","Italy","Palermo","Italy",0,56,55,2004
+"20/07","Italie","Andrea Barzagli","in","Chievo Verona","Italy","Palermo","Italy",0,47,55,2004
+"01/07","Italie","Daniele Dessena","in","Brescia","Italy","Parma","Italy",0,45,56,2004
+"11/08","Brésil","Fábio Simplício","in","Brazil","Other","Parma","Italy",0,99,56,2004
+"25/08","Italie","Gianluca Berti","in","Palermo","Italy","Parma","Italy",0,55,56,2004
+"01/01","Italie","S.  Bettarini","in","Sampdoria","Italy","Parma","Italy",0,58,56,2004
+"01/07","Italie","Juri Cannarsa","in","Livorno","Italy","Reggina","Italy",0,53,57,2004
+"01/07","Italie","Nicola Pavarini","in","Livorno","Italy","Reggina","Italy",0,53,57,2004
+"15/07","Portugal","Ricardo Esteves","in","Portugal","Other","Reggina","Italy",0,106,57,2004
+"01/01","Russie","V.  Budyanskiy","in","Juventus","Italy","Reggina","Italy",0,50,57,2004
+"18/05","Italie","Max Tonetto","in","Lecce","Italy","Sampdoria","Italy",0,52,58,2004
+"06/06","Italie","Marco Pisano","in","Brescia","Italy","Sampdoria","Italy",0,45,58,2004
+"17/06","Bélarus","Vitali Kutuzov","in","AC Milan","Italy","Sampdoria","Italy",1.5,41,58,2004
+"09/07","Italie","M.  Castellini","in","Parma","Italy","Sampdoria","Italy",0.8,56,58,2004
+"09/08","Italie","Fausto Rossini","in","Bologna","Italy","Sampdoria","Italy",0,44,58,2004
+"01/01","Italie","A.  Gasbarroni","in","Palermo","Italy","Sampdoria","Italy",0,55,58,2004
+"01/07","Italie","A.  Camorani","in","Fiorentina","Italy","Siena","Italy",0,48,59,2004
+"01/07","Italie","D.  Di Donato","in","Palermo","Italy","Siena","Italy",0,55,59,2004
+"07/07","Italie","G.  Falsini","in","Reggina","Italy","Siena","Italy",0,57,59,2004
+"08/07","Italie","M.  Graffiedi","in","Fiorentina","Italy","Siena","Italy",0,48,59,2004
+"31/01","Brésil","Alberto","in","Udinese","Italy","Siena","Italy",0,60,59,2004
+"01/07","Italie","Stefano Mauri","in","Brescia","Italy","Udinese","Italy",0,45,60,2004
+"01/07","Argentine","F.  Tissone","in","Argentina","Other","Udinese","Italy",0,105,60,2004
+"31/01","Brésil","Gustavo","in","Brazil","Other","Udinese","Italy",0,99,60,2004
+"02/06","Brésil","André Luiz","in","Brazil","Other","AC Ajaccio","France",0,99,61,2004
+"03/06","Brésil","Marcelinho Carioca","in","Brazil","Other","AC Ajaccio","France",0,99,61,2004
+"05/06","Brésil","M.  de Faria","in","Mexico","Other","AC Ajaccio","France",0,109,61,2004
+"19/06","Portugal","Gaspar","in","Portugal","Other","AC Ajaccio","France",0,106,61,2004
+"05/08","Brésil","Lucas Pereira","in","Brazil","Other","AC Ajaccio","France",0,99,61,2004
+"24/08","France","S.  Porato","in","Monaco","France","AC Ajaccio","France",0,72,61,2004
+"24/05","Belgique","Luigi Pieroni","in","Belgium","Other","Auxerre","France",1.5,103,62,2004
+"15/07","France","Benoît Cheyrou","in","Lille","France","Auxerre","France",0,68,62,2004
+"24/06","France","Tony Vairelles","in","Rennes","France","Bastia","France",0,76,63,2004
+"22/01","Suisse","Bernt Haas","in","WBA","England","Bastia","France",0,20,63,2004
+"24/01","France","Stéphane Ziani","in","Switzerland","Other","Bastia","France",0,102,63,2004
+"30/01","France","C.  Karembeu","in","Switzerland","Other","Bastia","France",0,102,63,2004
+"24/05","France","L.  Laslandes","in","Nice","France","Bordeaux","France",0,74,64,2004
+"18/06","Brésil","Thiago Ribeiro","in","Brazil","Other","Bordeaux","France",0,99,64,2004
+"26/07","Grèce","Michalis Kapsis","in","Greece","Other","Bordeaux","France",0.5,108,64,2004
+"28/07","France","Cyril Rool","in","Lens","France","Bordeaux","France",0,67,64,2004
+"10/06","France","F.  Danjou","in","AC Ajaccio","France","Caen","France",0,61,65,2004
+"22/06","Belgique","Grégory Dufer","in","Belgium","Other","Caen","France",1,103,65,2004
+"24/06","Sénégal","Ibrahima Faye","in","Belgium","Other","Caen","France",0,103,65,2004
+"24/07","Belgique","Steve Dugardein","in","Belgium","Other","Caen","France",0,103,65,2004
+"22/01","Serbie","Igor Matic","in","Serbia","Other","Caen","France",0,114,65,2004
+"01/02","Cameroun","M.  Idrissou","in","Hannover 96","Germany","Caen","France",0,89,65,2004
+"25/06","France","G.  Forschelet","in","Switzerland","Other","Istres","France",0,102,66,2004
+"01/07","Serbie","Dejan Ilic","in","Serbia","Other","Istres","France",0,114,66,2004
+"19/07","France","Florian Maurice","in","Bastia","France","Istres","France",0,63,66,2004
+"30/08","Tunisie","Adel Chedli","in","Sochaux","France","Istres","France",0,78,66,2004
+"09/01","Brésil","Leandro Amaral","in","Brazil","Other","Istres","France",0,99,66,2004
+"09/01","France","S.  Perez","in","Marseille","France","Istres","France",0,70,66,2004
+"18/01","Côte d'Ivoire","I.  Bakayoko","in","Osasuna","Spain","Istres","France",0,35,66,2004
+"11/06","France","Eric Carrière","in","Lyon","France","Lens","France",0,69,67,2004
+"28/06","France","Nicolas Gillet","in","Nantes","France","Lens","France",0,73,67,2004
+"28/06","Brésil","Vitorino Hilton","in","Bastia","France","Lens","France",0,63,67,2004
+"29/01","Brésil","Jussiê","in","Brazil","Other","Lens","France",3.5,99,67,2004
+"07/06","France","Nicolas Raynier","in","Monaco","France","Lille","France",0,72,68,2004
+"07/06","Sénégal","Tony Sylva","in","Monaco","France","Lille","France",0,72,68,2004
+"29/06","Grèce","S.  Tavlaridis","in","Arsenal","England","Lille","France",0,1,68,2004
+"30/07","Serbie","M.  Vitakic","in","Serbia","Other","Lille","France",0,114,68,2004
+"01/08","Brésil","Rafael Schmitz","in","Russia","Other","Lille","France",0,113,68,2004
+"31/08","Nigeria","P.  Odemwingie","in","Belgium","Other","Lille","France",0.65,103,68,2004
+"07/06","France","Eric Abidal","in","Lille","France","Lyon","France",8.5,68,69,2004
+"07/06","France","P.-A. Frau","in","Sochaux","France","Lyon","France",8.5,78,69,2004
+"06/08","Sénégal","Lamine Diatta","in","Rennes","France","Lyon","France",0,76,69,2004
+"23/08","Brésil","Cris","in","Brazil","Other","Lyon","France",3.5,99,69,2004
+"30/08","Brésil","Nilmar","in","Brazil","Other","Lyon","France",5.8,99,69,2004
+"31/08","France","Sylvain Wiltord","in","Arsenal","England","Lyon","France",0,1,69,2004
+"29/06","France","Fréderic Déhu","in","Paris S-G","France","Marseille","France",0,75,70,2004
+"29/06","France","B.  Pedretti","in","Sochaux","France","Marseille","France",5,78,70,2004
+"26/07","France","B.  Lizarazu","in","Bayern Munich","Germany","Marseille","France",0,83,70,2004
+"29/07","Brésil","Eduardo Costa","in","Bordeaux","France","Marseille","France",6,64,70,2004
+"30/07","France","P.  Luyindula","in","Lyon","France","Marseille","France",12,69,70,2004
+"31/08","France","F.  Fiorèse","in","Paris S-G","France","Marseille","France",3,75,70,2004
+"02/06","France","C.  Avezac","in","Toulouse FC","France","Metz","France",0,80,71,2004
+"25/06","Cameroun","Hervé Tum","in","Switzerland","Other","Metz","France",0,102,71,2004
+"27/06","France","G.  Wimbée","in","Lille","France","Metz","France",0,68,71,2004
+"01/07","Belgique","Stéphane Thys","in","Belgium","Other","Metz","France",0,103,71,2004
+"12/06","Brésil","Maicon","in","Brazil","Other","Monaco","France",3,99,72,2004
+"24/06","France","F.  Modesto","in","Cagliari","Italy","Monaco","France",0,46,72,2004
+"16/07","Uruguay","J.  Chevantón","in","Lecce","Italy","Monaco","France",10,52,72,2004
+"21/07","Sierra Léone","Mohamed Kallon","in","Inter Milan","Italy","Monaco","France",4,49,72,2004
+"16/05","France","G.  Warmuz","in","Dortmund","Germany","Monaco","France",0,85,72,2004
+"09/06","Colombie","A.  Viveros","in","Portugal","Other","Nantes","France",0,106,73,2004
+"14/07","Mali","M.  Bagayoko","in","AC Ajaccio","France","Nantes","France",0,61,73,2004
+"22/07","Roumanie","Florin Bratu","in","Turkey","Other","Nantes","France",3,104,73,2004
+"13/07","Tahiti","Marama Vahirua","in","Nantes","France","Nice","France",0.5,73,74,2004
+"31/07","Nigeria","Victor Agali","in","Schalke 04","Germany","Nice","France",0,95,74,2004
+"24/08","France","Florent Balmont","in","Lyon","France","Nice","France",1.5,69,74,2004
+"25/08","France","F.  Grenet","in","Rennes","France","Nice","France",0,76,74,2004
+"30/08","Belgique","R.  Bisconti","in","Belgium","Other","Nice","France",0,103,74,2004
+"31/01","France","Martin Djetou","in","Fulham","England","Nice","France",0,10,74,2004
+"03/06","France","S.  Pichot","in","Lille","France","Paris S-G","France",0,68,75,2004
+"25/06","Cameroun","J.-H. Ateba","in","Nantes","France","Paris S-G","France",0,73,75,2004
+"28/06","France","Jérôme Rothen","in","Monaco","France","Paris S-G","France",10,72,75,2004
+"28/06","Colombie","Mario Yepes","in","Nantes","France","Paris S-G","France",10,73,75,2004
+"01/07","France","Sylvain Armand","in","Nantes","France","Paris S-G","France",5,73,75,2004
+"31/07","Bosnie-Herzégovine","Vedad Ibisevic","in","United States","Other","Paris S-G","France",0,111,75,2004
+"16/08","Portugal","Hélder","in","Portugal","Other","Paris S-G","France",0,106,75,2004
+"31/08","Martinique","C.-E. Coridon","in","Lens","France","Paris S-G","France",0,67,75,2004
+"25/01","Russie","Sergey Semak","in","Russia","Other","Paris S-G","France",2.5,113,75,2004
+"01/07","Sénégal","Moussa Sow","in","Turkey","Other","Rennes","France",0,104,76,2004
+"03/07","Brésil","Adaílton","in","Brazil","Other","Rennes","France",0,99,76,2004
+"23/07","Cameroun","Perrier Doumbé","in","Auxerre","France","Rennes","France",0,62,76,2004
+"22/06","Martinique","F.  Piquionne","in","Rennes","France","Saint-Etienne","France",3.5,76,77,2004
+"24/06","Côte d'Ivoire","Didier Zokora","in","Belgium","Other","Saint-Etienne","France",2,103,77,2004
+"03/07","France","Zoumana Camara","in","Lens","France","Saint-Etienne","France",0,67,77,2004
+"18/08","Guinée","P.  Feindouno","in","Bordeaux","France","Saint-Etienne","France",3,64,77,2004
+"19/01","Sénégal","Lamine Sakho","in","Marseille","France","Saint-Etienne","France",0,70,77,2004
+"01/06","France","Maxime Josse","in","Switzerland","Other","Sochaux","France",0,102,78,2004
+"01/07","France","Jérémy Ménez","in","Mexico","Other","Sochaux","France",0,109,78,2004
+"07/08","Brésil","Ilan","in","Brazil","Other","Sochaux","France",3,99,78,2004
+"19/08","France","Romain Pitau","in","Nice","France","Sochaux","France",0,74,78,2004
+"29/01","Togo","Mohamed Kader","in","Switzerland","Other","Sochaux","France",0,102,78,2004
+"24/06","Côte d'Ivoire","Arthur Boka","in","Belgium","Other","Strasbourg","France",1,103,79,2004
+"09/07","France","Mickaël Pagis","in","Sochaux","France","Strasbourg","France",0.5,78,79,2004
+"27/05","France","Pantxi Sirieix","in","Auxerre","France","Toulouse FC","France",0,62,80,2004
+"10/06","France","Daniel Moreira","in","Lens","France","Toulouse FC","France",0,67,80,2004
+"18/06","France","D.  Arribagé","in","Rennes","France","Toulouse FC","France",0,76,80,2004
+"02/06","Albanie","Klodian Duro","in","Turkey","Other","Bielefeld","Germany",0,104,81,2004
+"18/06","Croatie","Marijo Maric","in","Austria","Other","Bielefeld","Germany",0.15,107,81,2004
+"01/07","Afrique du Sud","Delron Buckley","in","Bochum","Germany","Bielefeld","Germany",0.25,84,81,2004
+"01/07","Brésil","Roger Bernardo","in","Brazil","Other","Bielefeld","Germany",0,99,81,2004
+"01/07","Allemagne","Markus Schuler","in","Hannover 96","Germany","Bielefeld","Germany",0,89,81,2004
+"05/07","Roumanie","C.  Raducanu","in","Espanyol","Spain","Bielefeld","Germany",0,26,81,2004
+"01/01","Allemagne","Heiner Backhaus","in","M'gladbach","Germany","Bielefeld","Germany",0,86,81,2004
+"01/01","Pologne","Tomasz Wisio","in","Austria","Other","Bielefeld","Germany",0,107,81,2004
+"11/06","Allemagne","Paul Freier","in","Bochum","Germany","Bayer Leverkusen","Germany",3.5,84,82,2004
+"01/07","Allemagne","Gonzalo Castro","in","Stuttgart","Germany","Bayer Leverkusen","Germany",0,96,82,2004
+"01/07","Pologne","Jacek Krzynowek","in","FC Nürnberg","Germany","Bayer Leverkusen","Germany",0,94,82,2004
+"08/07","Brésil","Roque Júnior","in","Siena","Italy","Bayer Leverkusen","Germany",0,59,82,2004
+"27/05","Brésil","Lúcio","in","Bayer Leverkusen","Germany","Bayern Munich","Germany",13,82,83,2004
+"01/07","Allemagne","Torsten Frings","in","Dortmund","Germany","Bayern Munich","Germany",9.3,85,83,2004
+"01/07","Iran","Vahid Hashemian","in","Bochum","Germany","Bayern Munich","Germany",2,84,83,2004
+"05/01","France","B.  Lizarazu","in","Marseille","France","Bayern Munich","Germany",0,70,83,2004
+"01/06","République tchèque","V.  Lokvenc","in","Kaiserslautern","Germany","Bochum","Germany",0,92,84,2004
+"01/07","Danemark","Tommy Bechmann","in","Denmark","Other","Bochum","Germany",1.5,112,84,2004
+"01/07","Allemagne","Claus Costa","in","Bayer Leverkusen","Germany","Bochum","Germany",0,82,84,2004
+"01/07","Slovénie","A.  Knavs","in","Kaiserslautern","Germany","Bochum","Germany",0,92,84,2004
+"01/07","Bosnie-Herzégovine","Z.  Misimovic","in","Bayern Munich","Germany","Bochum","Germany",0,83,84,2004
+"11/01","Danemark","P.  Skov-Jensen","in","Denmark","Other","Bochum","Germany",0,112,84,2004
+"15/06","Nigeria","Sunday Oliseh","in","Bochum","Germany","Dortmund","Germany",0,84,85,2004
+"18/01","Pologne","E.  Smolarek","in","Netherlands","Other","Dortmund","Germany",0,100,85,2004
+"05/06","Allemagne","Sead Ramovic","in","Wolfsburg","Germany","M'gladbach","Germany",0.2,98,86,2004
+"09/06","Allemagne","Christian Ziege","in","Tottenham","England","M'gladbach","Germany",0,19,86,2004
+"11/06","Belgique","van Kerckhoven","in","Schalke 04","Germany","M'gladbach","Germany",0,95,86,2004
+"01/07","Allemagne","Darius Kampa","in","FC Nürnberg","Germany","M'gladbach","Germany",0,94,86,2004
+"01/07","Allemagne","Oliver Neuville","in","Bayer Leverkusen","Germany","M'gladbach","Germany",0,82,86,2004
+"16/07","Serbie","Vladimir Ivic","in","Serbia","Other","M'gladbach","Germany",0,114,86,2004
+"13/12","Allemagne","Jörg Böhme","in","Schalke 04","Germany","M'gladbach","Germany",0,95,86,2004
+"01/01","Belgique","Bernd Thijs","in","Turkey","Other","M'gladbach","Germany",0.6,104,86,2004
+"06/01","Australie","Craig Moore","in","Scotland","Other","M'gladbach","Germany",0,101,86,2004
+"12/01","Belgique","Wesley Sonck","in","Netherlands","Other","M'gladbach","Germany",2.5,100,86,2004
+"15/01","Etats-Unis","Kasey Keller","in","Tottenham","England","M'gladbach","Germany",0,19,86,2004
+"20/01","Belgique","Filip Daems","in","Turkey","Other","M'gladbach","Germany",0,104,86,2004
+"30/01","Brésil","Élber","in","Lyon","France","M'gladbach","Germany",0,69,86,2004
+"01/01","Géorgie","Khizaneishvili","in","Russia","Other","Freiburg","Germany",0.8,113,87,2004
+"11/01","Pays-Bas","Samuel Koejoe","in","Austria","Other","Freiburg","Germany",0,107,87,2004
+"20/01","Autriche","Ibertsberger","in","Austria","Other","Freiburg","Germany",0,107,87,2004
+"01/07","Belgique","Emile Mpenza","in","Belgium","Other","Hamburger SV","Germany",2,103,88,2004
+"01/07","Belgique","D.  Van Buyten","in","Marseille","France","Hamburger SV","Germany",3.8,70,88,2004
+"30/08","Pays-Bas","K.  Boulahrouz","in","Netherlands","Other","Hamburger SV","Germany",0,100,88,2004
+"25/06","Brésil","Leandro","in","Switzerland","Other","Hannover 96","Germany",0.45,102,89,2004
+"28/06","Autriche","Roman Wallner","in","Austria","Other","Hannover 96","Germany",0.43,107,89,2004
+"01/07","Australie","Frank Juric","in","Bayer Leverkusen","Germany","Hannover 96","Germany",0,82,89,2004
+"06/07","Allemagne","Michael Tarnat","in","Manchester City","England","Hannover 96","Germany",0,12,89,2004
+"07/07","Portugal","Ricardo Sousa","in","Portugal","Other","Hannover 96","Germany",0.75,106,89,2004
+"01/07","Danemark","David Rasmussen","in","Denmark","Other","Hansa Rostock","Germany",0,112,90,2004
+"27/08","Suède","Marcus Allbäck","in","Aston Villa","England","Hansa Rostock","Germany",0,2,90,2004
+"09/06","Turquie","Y.  Bastürk","in","Bayer Leverkusen","Germany","Hertha Berlin","Germany",0,82,91,2004
+"28/06","Allemagne","Gerhard Tremmel","in","Hannover 96","Germany","Hertha Berlin","Germany",0,89,91,2004
+"02/07","Brésil","Gilberto","in","Brazil","Other","Hertha Berlin","Germany",1.5,99,91,2004
+"23/05","Allemagne","C.  Nerlinger","in","Scotland","Other","Kaiserslautern","Germany",0,101,92,2004
+"01/06","Albanie","Jurgen Gjasula","in","Freiburg","Germany","Kaiserslautern","Germany",0,87,92,2004
+"01/06","Allemagne","Jochen Seitz","in","Schalke 04","Germany","Kaiserslautern","Germany",0,95,92,2004
+"01/07","Allemagne","Carsten Jancker","in","Udinese","Italy","Kaiserslautern","Germany",0,60,92,2004
+"02/01","Autriche","Jürgen Macho","in","Austria","Other","Kaiserslautern","Germany",0,107,92,2004
+"06/01","Allemagne","Hanno Balitsch","in","Bayer Leverkusen","Germany","Mainz","Germany",0.5,82,93,2004
+"29/05","Allemagne","Markus Daun","in","Werder Bremen","Germany","FC Nürnberg","Germany",0,97,94,2004
+"01/06","Pologne","Tomasz Hajto","in","Schalke 04","Germany","FC Nürnberg","Germany",0,95,94,2004
+"01/07","Croatie","Ivica Banovic","in","Werder Bremen","Germany","FC Nürnberg","Germany",0,97,94,2004
+"01/07","Allemagne","Marcel Ketelaer","in","M'gladbach","Germany","FC Nürnberg","Germany",0,86,94,2004
+"14/07","Brésil","Leandro Tigrão","in","Brazil","Other","FC Nürnberg","Germany",0,99,94,2004
+"30/08","Suisse","M.  Cantaluppi","in","Switzerland","Other","FC Nürnberg","Germany",0.65,102,94,2004
+"02/06","Brésil","Lincoln","in","Kaiserslautern","Germany","Schalke 04","Germany",0.6,92,95,2004
+"15/06","Brésil","Marcelo Bordon","in","Stuttgart","Germany","Schalke 04","Germany",0,96,95,2004
+"01/07","Brésil","Ailton","in","Werder Bremen","Germany","Schalke 04","Germany",0,97,95,2004
+"01/07","Serbie","Mladen Krstajic","in","Werder Bremen","Germany","Schalke 04","Germany",0,97,95,2004
+"01/01","Allemagne","Mimoun Azaouagh","in","Mainz","Germany","Schalke 04","Germany",0,93,95,2004
+"01/07","France","M.  Delpierre","in","Lille","France","Stuttgart","Germany",0,68,96,2004
+"16/07","Allemagne","Markus Babbel","in","Liverpool","England","Stuttgart","Germany",0,11,96,2004
+"25/01","Brésil","Elson Falcão","in","Brazil","Other","Stuttgart","Germany",0,99,96,2004
+"01/07","Allemagne","F.  Fahrenhorst","in","Bochum","Germany","Werder Bremen","Germany",0,84,97,2004
+"01/07","Allemagne","Miroslav Klose","in","Kaiserslautern","Germany","Werder Bremen","Germany",5,92,97,2004
+"16/07","Brésil","Gustavo Nery","in","Brazil","Other","Werder Bremen","Germany",0,99,97,2004
+"19/07","Finlande","Petri Pasanen","in","Portsmouth","England","Werder Bremen","Germany",0.75,17,97,2004
+"04/06","Pays-Bas","Kevin Hofland","in","Netherlands","Other","Wolfsburg","Germany",0,100,98,2004
+"15/06","Argentine","Facundo Quiroga","in","Portugal","Other","Wolfsburg","Germany",1.5,106,98,2004
+"18/06","Allemagne","Thomas Brdaric","in","Hannover 96","Germany","Wolfsburg","Germany",1,89,98,2004
+"03/07","Bulgarie","Marian Hristov","in","Kaiserslautern","Germany","Wolfsburg","Germany",0,92,98,2004
+"01/01","Croatie","Tomislav Maric","in","M'gladbach","Germany","Wolfsburg","Germany",0,86,98,2004
+"01/07","Maroc","Hassan Kachloul","out","Aston Villa","England","Scotland","Other",0,2,101,2004
+"31/01","Ecosse","Barry Ferguson","out","Blackburn","England","Scotland","Other",6.8,4,101,2004
+"17/05","Angleterre","Steve Howey","out","Bolton Wanderers","England","United States","Other",0,5,111,2004
+"01/01","France","C.  Berthelin","out","Crystal Palace","England","Belgium","Other",0,8,103,2004
+"01/07","Ghana","Alex Nyarko","out","Everton","England","Norway","Other",0,9,110,2004
+"29/07","Suède","T.  Linderoth","out","Everton","England","Denmark","Other",0,9,112,2004
+"28/01","Suisse","S.  Henchoz","out","Liverpool","England","Scotland","Other",0,11,101,2004
+"01/07","Pays-Bas","Gerard Wiekens","out","Manchester City","England","Netherlands","Other",0,12,100,2004
+"16/07","Islande","Arni Arason","out","Manchester City","England","Norway","Other",0,12,110,2004
+"31/01","France","Nicolas Anelka","out","Manchester City","England","Turkey","Other",10.7,12,104,2004
+"22/04","Brésil","Ricardinho","out","Middlesbrough","England","Brazil","Other",0,14,99,2004
+"29/07","Ecosse","David Murphy","out","Middlesbrough","England","Scotland","Other",0,14,101,2004
+"10/08","Ecosse","Allan Johnston","out","Middlesbrough","England","Scotland","Other",0,14,101,2004
+"25/08","Brésil","Juninho Paulista","out","Middlesbrough","England","Scotland","Other",0,14,101,2004
+"18/07","Angleterre","Neil Barrett","out","Portsmouth","England","Scotland","Other",0,17,101,2004
+"30/11","Angleterre","Kevin Bond","out","Portsmouth","England","Southampton","England",0,17,18,2004
+"13/01","Pays-Bas","Harald Wapenaar","out","Portsmouth","England","Netherlands","Other",0,17,100,2004
+"28/01","Ecosse","Mark Burchill","out","Portsmouth","England","Scotland","Other",0,17,101,2004
+"09/07","Portugal","Hélder Postiga","out","Tottenham","England","Portugal","Other",7.5,19,106,2004
+"13/08","Canada","Lars Hirschfeld","out","Tottenham","England","Scotland","Other",0,19,101,2004
+"01/07","Danemark","Morten Skoubo","out","WBA","England","Denmark","Other",0,20,112,2004
+"01/07","Pays-Bas","Joost Volmer","out","WBA","England","Netherlands","Other",0,20,100,2004
+"01/07","Brésil","Fabiano","out","Albacete","Spain","Mexico","Other",0,21,109,2004
+"01/07","Argentine","Carlos Roa","out","Albacete","Spain","Argentina","Other",0,21,105,2004
+"01/07","Brésil","Rodrigo Fabri","out","Atlético Madrid","Spain","Brazil","Other",0,23,99,2004
+"05/07","Grèce","D.  Nikolaidis","out","Atlético Madrid","Spain","Greece","Other",0,23,108,2004
+"01/12","Argentine","Diego Simeone","out","Atlético Madrid","Spain","Argentina","Other",0,23,105,2004
+"01/07","Brésil","Djalminha","out","Depor","Spain","Mexico","Other",0,25,109,2004
+"01/07","Pays-Bas","Kevin Bobson","out","Espanyol","Spain","Netherlands","Other",0,26,100,2004
+"01/07","Turquie","Tayfun Korkut","out","Espanyol","Spain","Turkey","Other",0,26,104,2004
+"25/08","Côte d'Ivoire","Cyril Domoraud","out","Espanyol","Spain","Turkey","Other",0,26,104,2004
+"07/06","Pays-Bas","Philip Cocu","out","FC Barcelona","Spain","Netherlands","Other",0,27,100,2004
+"06/07","Portugal","R.  Quaresma","out","FC Barcelona","Spain","Portugal","Other",6,27,106,2004
+"01/07","Argentine","F.  Lussenhoff","out","Mallorca","Spain","Mexico","Other",0,32,109,2004
+"31/08","Pays-Bas","Arnold Bruggink","out","Mallorca","Spain","Netherlands","Other",0,32,100,2004
+"01/07","Uruguay","Diego Alonso","out","Málaga","Spain","Mexico","Other",0,33,109,2004
+"01/01","Espagne","X.  Azkargorta","out","Real Madrid","Spain","Mexico","Other",0,37,109,2004
+"02/08","Argentine","G.  Schürrer","out","Real Sociedad","Spain","Greece","Other",0,39,108,2004
+"01/07","Norvège","John Carew","out","AS Roma","Italy","Turkey","Other",0,42,104,2004
+"14/07","Brésil","Francisco Lima","out","AS Roma","Italy","Russia","Other",0,42,113,2004
+"31/01","Italie","R.  De Martino","out","AS Roma","Italy","Switzerland","Other",0,42,102,2004
+"01/07","Argentine","Guglielminpietro","out","Bologna","Italy","Argentina","Other",0,44,105,2004
+"01/07","Italie","G.  Signori","out","Bologna","Italy","Greece","Other",0,44,108,2004
+"01/07","Egypte","Hany Said","out","Fiorentina","Italy","Belgium","Other",0,48,103,2004
+"17/06","Turquie","Buruk Okan","out","Inter Milan","Italy","Turkey","Other",0,49,104,2004
+"13/07","Côte d'Ivoire","Arnaud Kouyo","out","Lecce","Italy","Belgium","Other",0,52,103,2004
+"26/06","Italie","G.  Chiellini","out","Livorno","Italy","Juventus","Italy",0,53,50,2004
+"14/07","République tchèque","Martin Jiránek","out","Reggina","Italy","Russia","Other",3.3,57,113,2004
+"01/07","Serbie","Nenad Sakic","out","Sampdoria","Italy","Serbia","Other",0,58,114,2004
+"01/07","Serbie","B.  Zivkovic","out","Sampdoria","Italy","Serbia","Other",0,58,114,2004
+"01/07","Brésil","Júnior","out","Siena","Italy","Brazil","Other",0,59,99,2004
+"01/07","Argentine","L.  Castromán","out","Udinese","Italy","Argentina","Other",0,60,105,2004
+"01/07","Paraguay","Diego Gavilán","out","Udinese","Italy","Brazil","Other",0,60,99,2004
+"01/07","Italie","Fabio Rossitto","out","Udinese","Italy","Belgium","Other",0,60,103,2004
+"01/07","Serbie","M.  Martinovic","out","AC Ajaccio","France","Serbia","Other",0,61,114,2004
+"01/07","France","S.  Maurel","out","AC Ajaccio","France","Portugal","Other",0,61,106,2004
+"06/08","Côte d'Ivoire","L.  Diabaté","out","AC Ajaccio","France","Belgium","Other",0,61,103,2004
+"01/07","France","J.-A. Boumsong","out","Auxerre","France","Scotland","Other",0,62,101,2004
+"20/01","Etats-Unis","Greg Vanney","out","Bastia","France","United States","Other",0,63,111,2004
+"20/06","France","Mathieu Beda","out","Bordeaux","France","Belgium","Other",0,64,103,2004
+"01/07","France","Daniel Deves","out","Bordeaux","France","Switzerland","Other",0,64,102,2004
+"01/07","Portugal","Paulo Costa","out","Bordeaux","France","Portugal","Other",0,64,106,2004
+"01/07","Brésil","Paulo Miranda","out","Bordeaux","France","Brazil","Other",0,64,99,2004
+"04/07","France","Hervé Alicarte","out","Bordeaux","France","Switzerland","Other",0,64,102,2004
+"27/08","Portugal","Bruno Basto","out","Bordeaux","France","Netherlands","Other",0,64,100,2004
+"01/07","Nigeria","Furo Iyenemi","out","Istres","France","Switzerland","Other",0,66,102,2004
+"01/07","Brésil","Leonardo Oliveira","out","Istres","France","Switzerland","Other",0,66,102,2004
+"02/07","France","X.  Gravelaine","out","Istres","France","Switzerland","Other",0,66,102,2004
+"11/07","Cameroun","Rigobert Song","out","Lens","France","Turkey","Other",1.5,67,104,2004
+"02/05","Chili","Hector Tapia","out","Lille","France","Brazil","Other",0,68,99,2004
+"15/05","Australie","Mile Sterjovski","out","Lille","France","Switzerland","Other",0,68,102,2004
+"01/07","Belgique","Eric Deflandre","out","Lyon","France","Belgium","Other",0,69,103,2004
+"09/07","République tchèque","S.  Vachousek","out","Marseille","France","Austria","Other",1.5,70,107,2004
+"17/07","France","M.  Dos Santos","out","Marseille","France","Portugal","Other",0,70,106,2004
+"01/07","France","Ludovic Butelle","out","Metz","France","Valencia CF","Spain",0,71,29,2004
+"31/01","France","Franck Ribéry","out","Metz","France","Turkey","Other",2.5,71,104,2004
+"01/07","Croatie","Dado Prso","out","Monaco","France","Scotland","Other",0,72,101,2004
+"01/07","Roumanie","Viorel Moldovan","out","Nantes","France","Switzerland","Other",0,73,102,2004
+"30/07","Brésil","Everson","out","Nice","France","Portugal","Other",1.2,74,106,2004
+"30/08","Belgique","P.  Léonard","out","Nice","France","Belgium","Other",0,74,103,2004
+"04/08","Portugal","Hugo Leal","out","Paris S-G","France","Portugal","Other",0,75,106,2004
+"24/05","France","Fabrice Ehret","out","Strasbourg","France","Belgium","Other",0,79,103,2004
+"10/06","Suède","Mikael Dorsin","out","Strasbourg","France","Norway","Other",0,79,110,2004
+"17/06","Brésil","Fernandão","out","Toulouse FC","France","Brazil","Other",0,80,99,2004
+"01/07","Pologne","Maciej Murawski","out","Bielefeld","Germany","Greece","Other",0,81,108,2004
+"01/10","Autriche","Zeljko Radovic","out","Bielefeld","Germany","Austria","Other",0,81,107,2004
+"31/03","Etats-Unis","Landon Donovan","out","Bayer Leverkusen","Germany","United States","Other",1,82,111,2004
+"01/07","Pays-Bas","Anton Vriesde","out","Bochum","Germany","Netherlands","Other",0,84,100,2004
+"20/06","Brésil","F.  Conceição","out","Dortmund","Germany","Turkey","Other",0,85,104,2004
+"26/04","Brésil","Evanílson","out","Dortmund","Germany","Brazil","Other",0,85,99,2004
+"01/07","Pays-Bas","Nico-Jan Hoogma","out","Hamburger SV","Germany","Netherlands","Other",0,88,100,2004
+"01/07","Allemagne","Marc Ziegler","out","Hannover 96","Germany","Austria","Other",0,89,107,2004
+"07/07","Brésil","Kléber","out","Hannover 96","Germany","Switzerland","Other",0.8,89,102,2004
+"01/01","Russie","Vladimir But","out","Hannover 96","Germany","Russia","Other",0,89,113,2004
+"06/01","Etats-Unis","Clint Mathis","out","Hannover 96","Germany","United States","Other",0,89,111,2004
+"25/06","Autriche","G.  Plassnegger","out","Hansa Rostock","Germany","Austria","Other",0.5,90,107,2004
+"02/07","Belgique","Bart Goor","out","Hertha Berlin","Germany","Netherlands","Other",0,91,100,2004
+"01/07","Belgique","Stijn Vreven","out","Kaiserslautern","Germany","Netherlands","Other",0,92,100,2004
+"09/07","Croatie","Nenad Bjelica","out","Kaiserslautern","Germany","Austria","Other",0,92,107,2004
+"01/07","Brésil","Rafael Santos","out","FC Nürnberg","Germany","Brazil","Other",0,94,99,2004
+"01/07","Etats-Unis","Tony Sanneh","out","FC Nürnberg","Germany","United States","Other",0,94,111,2004
+"09/08","Brésil","Jeronimo Baretto","out","FC Nürnberg","Germany","Turkey","Other",0,94,104,2004
+"05/07","Argentine","A.  Matellán","out","Schalke 04","Germany","Argentina","Other",0,95,105,2004
+"09/07","Autriche","Eduard Glieder","out","Schalke 04","Germany","Austria","Other",0,95,107,2004
+"01/07","Angola","Rui Marques","out","Stuttgart","Germany","Portugal","Other",0,96,106,2004
+"01/01","Grèce","A.  Charisteas","out","Werder Bremen","Germany","Netherlands","Other",4.9,97,100,2004
+"11/06","Argentine","P.  Quatrocchi","out","Wolfsburg","Germany","Mexico","Other",0,98,109,2004
+"19/06","Allemagne","Bernd Leno","in","Bayer Leverkusen","Germany","Arsenal","England",25,82,1,2018
+"02/07","Grèce","Papastathopoulos","in","Dortmund","Germany","Arsenal","England",16,84,1,2018
+"10/07","Uruguay","Lucas Torreira","in","Sampdoria","Italy","Arsenal","England",30,56,1,2018
+"24/07","Espagne","Diego Rico","in","Leganés","Spain","Bournemouth","England",15,34,2,2018
+"07/08","Colombie","Jefferson Lerma","in","Levante","Spain","Bournemouth","England",30,35,2,2018
+"04/01","Angleterre","Dominic Solanke","in","Liverpool","England","Bournemouth","England",21.1,12,2,2018
+"05/07","Brésil","Bernardo","in","RB Leipzig","Germany","Brighton & Hove","England",10.2,94,3,2018
+"17/07","Mali","Yves Bissouma","in","Lille","France","Brighton & Hove","England",16.9,67,3,2018
+"25/07","Iran","A.  Jahanbakhsh","in","Netherlands","Other","Brighton & Hove","England",19.1,104,3,2018
+"09/08","Espagne","Martín Montoya","in","Valencia CF","Spain","Brighton & Hove","England",7,30,3,2018
+"22/01","Argentine","Mac Allister","in","Argentina","Other","Brighton & Hove","England",9,105,3,2018
+"07/08","Angleterre","Joe Hart","in","Manchester City","England","Burnley","England",3.9,13,4,2018
+"19/01","Argentine","Emiliano Sala","in","Nantes","France","Cardiff City","England",17,72,5,2018
+"14/07","Italie","Jorginho","in","Napoli","Italy","Chelsea","England",57,54,6,2018
+"08/08","Espagne","Arrizabalaga","in","Athletic Bilbao","Spain","Chelsea","England",80,22,6,2018
+"01/08","Sénégal","C.  Kouyaté","in","West Ham","England","Crystal Palace","England",10.7,19,7,2018
+"24/07","Brésil","Richarlison","in","Watford","England","Everton","England",45,18,8,2018
+"01/08","France","Lucas Digne","in","FC Barcelona","Spain","Everton","England",20.2,28,8,2018
+"09/08","Portugal","André Gomes","in","FC Barcelona","Spain","Everton","England",25,28,8,2018
+"09/08","Colombie","Yerry Mina","in","FC Barcelona","Spain","Everton","England",30.3,28,8,2018
+"12/07","Côte d'Ivoire","J.-M. Seri","in","Nice","France","Fulham","England",30,73,9,2018
+"24/07","Espagne","Fabricio","in","Turkey","Other","Fulham","England",6,102,9,2018
+"30/07","Serbie","A.  Mitrovic","in","Newcastle United","England","Fulham","England",20.2,15,9,2018
+"02/08","Angleterre","Alfie Mawson","in","Wales","Other","Fulham","England",22.5,112,9,2018
+"09/08","Cameroun","Zambo Anguissa","in","Marseille","France","Fulham","England",33,69,9,2018
+"15/01","Pays-Bas","Ryan Babel","in","Turkey","Other","Fulham","England",2,102,9,2018
+"20/06","Pays-Bas","Juninho Bacuna","in","Netherlands","Other","Huddersfield","England",2.5,104,10,2018
+"20/07","France","Adama Diakhaby","in","Monaco","France","Huddersfield","England",10,70,10,2018
+"01/07","Portugal","Ricardo Pereira","in","Portugal","Other","Leicester","England",22,101,11,2018
+"20/07","Pays de Galles","Daniel Ward","in","Liverpool","England","Leicester","England",11.2,12,11,2018
+"05/08","Algérie","Rachid Ghezzal","in","Monaco","France","Leicester","England",14,70,11,2018
+"09/08","Croatie","Filip Benkovic","in","Croatia","Other","Leicester","England",15,107,11,2018
+"09/08","Turquie","Caglar Soyuncu","in","Freiburg","Germany","Leicester","England",21,88,11,2018
+"01/07","Brésil","Fabinho","in","Monaco","France","Liverpool","England",50,70,12,2018
+"01/07","Guinée","Naby Keïta","in","RB Leipzig","Germany","Liverpool","England",55,94,12,2018
+"19/07","Brésil","Alisson Becker","in","AS Roma","Italy","Liverpool","England",75,42,12,2018
+"10/07","Algérie","Riyad Mahrez","in","Leicester","England","Manchester City","England",70,11,13,2018
+"31/01","Croatie","Ante Palaversa","in","Croatia","Other","Manchester City","England",8.5,107,13,2018
+"06/06","Portugal","Diogo Dalot","in","Portugal","Other","Man United","England",22,101,14,2018
+"02/08","Japon","Yoshinori Muto","in","Mainz","Germany","Newcastle United","England",10.7,92,15,2018
+"09/08","Argentine","F.  Fernández","in","Wales","Other","Newcastle United","England",6.7,112,15,2018
+"29/06","Norvège","M.  Elyounoussi","in","Switzerland","Other","Southampton","England",18,106,16,2018
+"10/07","Angleterre","Angus Gunn","in","Manchester City","England","Southampton","England",11.3,13,16,2018
+"13/07","Danemark","J.  Vestergaard","in","M'gladbach","Germany","Southampton","England",20,85,16,2018
+"09/08","Angleterre","Danny Ings","in","Liverpool","England","Southampton","England",22.2,12,16,2018
+"01/07","Suède","Pontus Dahlberg","in","Sweden","Other","Watford","England",3.9,111,18,2018
+"01/07","Espagne","Marc Navarro","in","Espanyol","Spain","Watford","England",2,27,18,2018
+"02/07","Italie","Adam Masina","in","Bologna","Italy","Watford","England",5,44,18,2018
+"04/07","Suède","Ken Sema","in","Sweden","Other","Watford","England",2.3,111,18,2018
+"19/06","France","Issa Diop","in","Toulouse FC","France","West Ham","England",25,80,19,2018
+"20/06","Pologne","L.  Fabianski","in","Wales","Other","West Ham","England",8,112,19,2018
+"11/07","Ukraine","A.  Yarmolenko","in","Dortmund","Germany","West Ham","England",20,84,19,2018
+"14/07","Paraguay","F.  Balbuena","in","Brazil","Other","West Ham","England",4,103,19,2018
+"16/07","Brésil","Felipe Anderson","in","Lazio","Italy","West Ham","England",40,53,19,2018
+"09/08","Espagne","Lucas Pérez","in","Arsenal","England","West Ham","England",4.5,1,19,2018
+"09/08","Colombie","Carlos Sánchez","in","Fiorentina","Italy","West Ham","England",4.5,48,19,2018
+"01/07","France","Willy Boly","in","Portugal","Other","Wolverhampton","England",13,101,20,2018
+"24/07","Portugal","João Moutinho","in","Monaco","France","Wolverhampton","England",5.6,70,20,2018
+"25/07","Espagne","Joni","in","Atlético Madrid","Spain","Wolverhampton","England",20.6,23,20,2018
+"09/08","Belgique","L.  Dendoncker","in","Belgium","Other","Wolverhampton","England",13.5,100,20,2018
+"05/07","Espagne","Rubén Sobrino","in","Manchester City","England","Alavés","Spain",2,13,21,2018
+"12/08","Espagne","Tomás Pina","in","Belgium","Other","Alavés","Spain",1.5,100,21,2018
+"01/07","Espagne","Ander Capa","in","Eibar","Spain","Athletic Bilbao","Spain",3,26,22,2018
+"02/07","Espagne","Yuri Berchiche","in","Paris S-G","France","Athletic Bilbao","Spain",24,75,22,2018
+"10/01","Espagne","Ibai","in","Alavés","Spain","Athletic Bilbao","Spain",4,21,22,2018
+"31/01","Bosnie-Herzégovine","Kenan Kodro","in","Denmark","Other","Athletic Bilbao","Spain",0.9,108,22,2018
+"19/06","France","Thomas Lemar","in","Monaco","France","Atlético Madrid","Spain",65,70,23,2018
+"01/07","Espagne","Rodri","in","Villarreal","Spain","Atlético Madrid","Spain",25,40,23,2018
+"05/07","Espagne","Antonio Adán","in","Real Betis","Spain","Atlético Madrid","Spain",1,24,23,2018
+"31/07","Colombie","Santiago Arias","in","Netherlands","Other","Atlético Madrid","Spain",11,104,23,2018
+"09/08","Croatie","Nikola Kalinic","in","AC Milan","Italy","Atlético Madrid","Spain",15,41,23,2018
+"13/07","Portugal","William Carvalho","in","Portugal","Other","Real Betis","Spain",20,101,24,2018
+"31/08","Argentine","G.  Lo Celso","in","Paris S-G","France","Real Betis","Spain",25,75,24,2018
+"15/06","Turquie","Yokuslu Okay","in","Turkey","Other","Celta Vigo","Spain",6,102,25,2018
+"08/08","Danemark","Mathias Jensen","in","Denmark","Other","Celta Vigo","Spain",5,108,25,2018
+"30/08","Argentine","Pablo de Blasis","in","Mainz","Germany","Eibar","Spain",2,92,26,2018
+"09/07","Espagne","Borja Iglesias","in","Celta Vigo","Spain","Espanyol","Spain",10,25,27,2018
+"09/07","Brésil","Arthur","in","Brazil","Other","FC Barcelona","Spain",31,103,28,2018
+"12/07","France","C.  Lenglet","in","Sevilla FC","Spain","FC Barcelona","Spain",35.9,29,28,2018
+"24/07","Brésil","Malcom","in","Bordeaux","France","FC Barcelona","Spain",41,63,28,2018
+"03/08","Chili","Arturo Vidal","in","Bayern Munich","Germany","FC Barcelona","Spain",18,83,28,2018
+"31/01","Brésil","Emerson Leite","in","Brazil","Other","FC Barcelona","Spain",12,103,28,2018
+"01/07","Cameroun","Ibrahim Amadou","in","Lille","France","Sevilla FC","Spain",15,67,29,2018
+"01/07","Espagne","Roque Mesa","in","Wales","Other","Sevilla FC","Spain",7.2,112,29,2018
+"04/07","République tchèque","Tomas Vaclik","in","Switzerland","Other","Sevilla FC","Spain",7,106,29,2018
+"25/07","Espagne","Sergi Gomez","in","Celta Vigo","Spain","Sevilla FC","Spain",5,25,29,2018
+"26/07","France","Joris Gnagnon","in","Rennes","France","Sevilla FC","Spain",15,77,29,2018
+"04/08","Espagne","Aleix Vidal","in","FC Barcelona","Spain","Sevilla FC","Spain",8.5,28,29,2018
+"31/08","Pays-Bas","Quincy Promes","in","Russia","Other","Sevilla FC","Spain",21,109,29,2018
+"11/01","Espagne","M.  El Haddadi","in","FC Barcelona","Spain","Sevilla FC","Spain",3,28,29,2018
+"11/01","Autriche","M.  Wöber","in","Netherlands","Other","Sevilla FC","Spain",10.5,104,29,2018
+"28/06","France","M.  Diakhaby","in","Lyon","France","Valencia CF","Spain",15,68,30,2018
+"09/07","Danemark","Daniel Wass","in","Celta Vigo","Spain","Valencia CF","Spain",6,25,30,2018
+"23/07","Italie","C.  Piccini","in","Portugal","Other","Valencia CF","Spain",8,101,30,2018
+"12/08","France","Kevin Gameiro","in","Atlético Madrid","Spain","Valencia CF","Spain",16,23,30,2018
+"28/08","Portugal","Gonçalo Guedes","in","Paris S-G","France","Valencia CF","Spain",40,75,30,2018
+"31/01","Espagne","Rubén Sobrino","in","Alavés","Spain","Valencia CF","Spain",5,21,30,2018
+"12/07","Serbie","N.  Maksimovic","in","Valencia CF","Spain","Getafe","Spain",5.5,30,32,2018
+"13/07","Espagne","David Soria","in","Sevilla FC","Spain","Getafe","Spain",3,29,32,2018
+"26/07","Espagne","Iván Alejo","in","Eibar","Spain","Getafe","Spain",4,26,32,2018
+"07/08","Turquie","Serdar Gurler","in","Turkey","Other","Huesca","Spain",2.5,102,33,2018
+"01/07","Espagne","Rubén Rochina","in","Russia","Other","Levante","Spain",1,109,35,2018
+"06/08","Nigeria","Moses Simon","in","Belgium","Other","Levante","Spain",5,100,35,2018
+"07/08","Ghana","Raphael Dwamena","in","Switzerland","Other","Levante","Spain",6.2,106,35,2018
+"09/08","Monténégro","Nikola Vukcevic","in","Portugal","Other","Levante","Spain",8.9,101,35,2018
+"30/01","Portugal","Ruben Vezo","in","Valencia CF","Spain","Levante","Spain",5,30,35,2018
+"01/07","Espagne","Alberto","in","Getafe","Spain","Rayo Vallecano","Spain",0.5,32,36,2018
+"13/07","RD Congo","Gaël Kakuta","in","China","Other","Rayo Vallecano","Spain",2.5,99,36,2018
+"23/07","Uruguay","E.  Velázquez","in","Atlético Madrid","Spain","Rayo Vallecano","Spain",1,23,36,2018
+"09/08","Espagne","Jordi Amat","in","Wales","Other","Rayo Vallecano","Spain",1,112,36,2018
+"08/08","Belgique","T.  Courtois","in","Chelsea","England","Real Madrid","Spain",35,6,37,2018
+"29/08","République Dominicaine","Mariano","in","Lyon","France","Real Madrid","Spain",21.5,68,37,2018
+"06/01","Espagne","Brahim Diaz","in","Manchester City","England","Real Madrid","Spain",15,13,37,2018
+"12/07","Espagne","Mikel Merino","in","Newcastle United","England","Real Sociedad","Spain",12,15,38,2018
+"03/08","Espagne","Rubén Alcaraz","in","Girona","Spain","Valladolid","Spain",1,31,39,2018
+"23/01","Espagne","Pablo Hervías","in","Eibar","Spain","Valladolid","Spain",1,26,39,2018
+"25/01","Espagne","Sergi Guardiola","in","Getafe","Spain","Valladolid","Spain",5,32,39,2018
+"07/06","Cameroun","K.  Toko Ekambi","in","Angers","France","Villarreal","Spain",18,62,40,2018
+"12/06","Espagne","Gerard Moreno","in","Espanyol","Spain","Villarreal","Spain",20,27,40,2018
+"21/06","Argentine","R.  Funes Mori","in","Everton","England","Villarreal","Spain",9,8,40,2018
+"10/07","Mexique","Miguel Layún","in","Portugal","Other","Villarreal","Spain",4,101,40,2018
+"14/07","Argentine","S.  Cáseres","in","Argentina","Other","Villarreal","Spain",10,105,40,2018
+"16/08","Colombie","Carlos Bacca","in","AC Milan","Italy","Villarreal","Spain",7,41,40,2018
+"07/01","Espagne","Vicente Iborra","in","Leicester","England","Villarreal","Spain",10,11,40,2018
+"15/08","Uruguay","Diego Laxalt","in","Genoa","Italy","AC Milan","Italy",14,50,41,2018
+"17/08","Espagne","S.  Castillejo","in","Villarreal","Spain","AC Milan","Italy",25,40,41,2018
+"03/01","Brésil","Lucas Paqueta","in","Brazil","Other","AC Milan","Italy",35,103,41,2018
+"23/01","Pologne","K.  Piatek","in","Genoa","Italy","AC Milan","Italy",35,50,41,2018
+"28/05","Croatie","Ante Coric","in","Croatia","Other","AS Roma","Italy",6,107,42,2018
+"14/06","Pays-Bas","Justin Kluivert","in","Netherlands","Other","AS Roma","Italy",20,104,42,2018
+"25/06","Argentine","Javier Pastore","in","Paris S-G","France","AS Roma","Italy",20,75,42,2018
+"01/07","Italie","Bryan Cristante","in","Atalanta","Italy","AS Roma","Italy",21,43,42,2018
+"01/07","République tchèque","Patrik Schick","in","Sampdoria","Italy","AS Roma","Italy",14,56,42,2018
+"07/07","Brésil","Daniel Fuzato","in","Brazil","Other","AS Roma","Italy",0.5,103,42,2018
+"24/07","Suède","Robin Olsen","in","Denmark","Other","AS Roma","Italy",8.5,108,42,2018
+"14/08","France","Steven N'Zonzi","in","Sevilla FC","Spain","AS Roma","Italy",30,29,42,2018
+"29/01","Brésil","Roger","in","Brazil","Other","Atalanta","Italy",4,103,43,2018
+"21/06","Paraguay","F.  Santander","in","Denmark","Other","Bologna","Italy",6,108,44,2018
+"22/06","Pologne","L.  Skorupski","in","AS Roma","Italy","Bologna","Italy",9,42,44,2018
+"04/07","Italie","D.  Falcinelli","in","Sassuolo","Italy","Bologna","Italy",10,57,44,2018
+"05/07","Suède","M.  Svanberg","in","Sweden","Other","Bologna","Italy",5,111,44,2018
+"04/01","Italie","Nicola Sansone","in","Villarreal","Spain","Bologna","Italy",8,40,44,2018
+"04/01","Italie","Roberto Soriano","in","Torino","Italy","Bologna","Italy",8,59,44,2018
+"27/07","Croatie","Filip Bradaric","in","Croatia","Other","Cagliari","Italy",4.5,107,45,2018
+"17/08","Estonie","Ragnar Klavan","in","Liverpool","England","Cagliari","Italy",1.3,12,45,2018
+"31/01","Italie","F.  Cacciatore","in","Chievo Verona","Italy","Cagliari","Italy",0.8,46,45,2018
+"17/08","Ghana","Afriyie Acquah","in","Torino","Italy","Empoli","Italy",1,59,47,2018
+"17/08","Turquie","Ucan Salih","in","Turkey","Other","Empoli","Italy",1,102,47,2018
+"01/07","France","Vincent Laurini","in","Empoli","Italy","Fiorentina","Italy",2,47,48,2018
+"02/07","France","Alban Lafont","in","Toulouse FC","France","Fiorentina","Italy",7,80,48,2018
+"19/07","Danemark","C.  Norgaard","in","Denmark","Other","Fiorentina","Italy",3.5,108,48,2018
+"15/01","Côte d'Ivoire","H. J.  Traoré","in","Empoli","Italy","Fiorentina","Italy",15,47,48,2018
+"17/08","Italie","Marco Capuano","in","Cagliari","Italy","Frosinone","Italy",1,45,49,2018
+"09/07","Italie","Luca Mazzitelli","in","Sassuolo","Italy","Genoa","Italy",8,57,50,2018
+"08/08","Italie","Andrea Favilli","in","Juventus","Italy","Genoa","Italy",7,52,50,2018
+"17/08","Italie","G.  Lapadula","in","AC Milan","Italy","Genoa","Italy",11,41,50,2018
+"07/01","Brésil","Jandrei","in","Brazil","Other","Genoa","Italy",2.4,103,50,2018
+"24/01","Italie","Stefano Sturaro","in","Portugal","Other","Genoa","Italy",16.5,101,50,2018
+"29/01","Danemark","Lukas Lerager","in","Bordeaux","France","Genoa","Italy",6,63,50,2018
+"31/01","Serbie","I.  Radovanovic","in","Chievo Verona","Italy","Genoa","Italy",4,46,50,2018
+"26/06","Belgique","R.  Nainggolan","in","AS Roma","Italy","Inter Milan","Italy",38,42,51,2018
+"01/07","Italie","Matteo Politano","in","Sassuolo","Italy","Inter Milan","Italy",20,57,51,2018
+"04/07","Argentine","L.  Martínez","in","Argentina","Other","Inter Milan","Italy",23,105,51,2018
+"08/06","Italie","Mattia Perin","in","Genoa","Italy","Juventus","Italy",12,50,52,2018
+"27/06","Portugal","Joao Cancelo","in","Inter Milan","Italy","Juventus","Italy",40.4,51,52,2018
+"01/07","Brésil","Douglas Costa","in","Bayern Munich","Germany","Juventus","Italy",46,83,52,2018
+"10/07","Portugal","C.  Ronaldo","in","Real Madrid","Spain","Juventus","Italy",117,37,52,2018
+"29/01","Uruguay","M.  Cáceres","in","Lazio","Italy","Juventus","Italy",0.6,53,52,2018
+"22/06","Danemark","Riza Durmisi","in","Real Betis","Spain","Lazio","Italy",6.5,24,53,2018
+"03/07","Kosovo","Valon Berisha","in","Austria","Other","Lazio","Italy",7.5,110,53,2018
+"11/07","Italie","F.  Acerbi","in","Sassuolo","Italy","Lazio","Italy",10,57,53,2018
+"31/07","Argentine","Joaquin Correa","in","Sevilla FC","Spain","Lazio","Italy",15,29,53,2018
+"01/07","Italie","Simone Verdi","in","Bologna","Italy","Napoli","Italy",25,44,54,2018
+"01/07","Brésil","Vinícius","in","Portugal","Other","Napoli","Italy",4,101,54,2018
+"05/07","Grèce","O.  Karnezis","in","Udinese","Italy","Napoli","Italy",2.5,60,54,2018
+"05/07","Italie","Alex Meret","in","SPAL","Italy","Napoli","Italy",27,58,54,2018
+"05/07","Espagne","Fabián Ruiz","in","Real Betis","Spain","Napoli","Italy",30,24,54,2018
+"08/08","France","Kévin Malcuit","in","Lille","France","Napoli","Italy",12,67,54,2018
+"17/08","Colombie","David Ospina","in","Arsenal","England","Napoli","Italy",3.5,1,54,2018
+"07/08","France","J.  Biabiany","in","Inter Milan","Italy","Parma","Italy",1.5,51,55,2018
+"14/06","Italie","Alex Ferrari","in","Bologna","Italy","Sampdoria","Italy",4.5,44,56,2018
+"19/06","Gambie","Omar Colley","in","Belgium","Other","Sampdoria","Italy",7.8,100,56,2018
+"06/07","République tchèque","Jakub Jankto","in","Udinese","Italy","Sampdoria","Italy",15,60,56,2018
+"17/07","Italie","Emil Audero","in","Juventus","Italy","Sampdoria","Italy",20,52,56,2018
+"24/07","France","G.  Defrel","in","AS Roma","Italy","Sampdoria","Italy",20,42,56,2018
+"11/01","Italie","M.  Gabbiadini","in","Southampton","England","Sampdoria","Italy",14,16,56,2018
+"04/07","Italie","Di Francesco","in","Bologna","Italy","Sassuolo","Italy",10,44,57,2018
+"17/07","Maroc","Mehdi Bourabia","in","Turkey","Other","Sassuolo","Italy",2.3,102,57,2018
+"13/08","Italie","M.  Locatelli","in","AC Milan","Italy","Sassuolo","Italy",10,41,57,2018
+"16/08","Brésil","Marlon","in","FC Barcelona","Spain","Sassuolo","Italy",6,28,57,2018
+"30/01","Turquie","Merih Demiral","in","Turkey","Other","Sassuolo","Italy",7,102,57,2018
+"01/07","Sénégal","Alfred Gomis","in","Torino","Italy","SPAL","Italy",1.5,59,58,2018
+"01/07","Slovénie","Jasmin Kurtic","in","Atalanta","Italy","SPAL","Italy",4.8,43,58,2018
+"19/07","Italie","Andrea Petagna","in","Atalanta","Italy","SPAL","Italy",12,43,58,2018
+"13/08","Italie","S.  Missiroli","in","Sassuolo","Italy","SPAL","Italy",2.5,57,58,2018
+"16/08","Italie","M.  Valdifiori","in","Torino","Italy","SPAL","Italy",1,59,58,2018
+"04/07","Italie","Armando Izzo","in","Genoa","Italy","Torino","Italy",8,50,59,2018
+"10/07","Brésil","Bremer","in","Brazil","Other","Torino","Italy",5.8,103,59,2018
+"10/07","France","S.  Meïté","in","Monaco","France","Torino","Italy",10,70,59,2018
+"17/08","Côte d'Ivoire","Koffi Djidji","in","Nantes","France","Torino","Italy",4.5,72,59,2018
+"17/08","Italie","Simone Zaza","in","Valencia CF","Spain","Torino","Italy",12,30,59,2018
+"17/07","Argentine","I.  Pussetto","in","Argentina","Other","Udinese","Italy",8,105,60,2018
+"26/07","Italie","R.  Mandragora","in","Juventus","Italy","Udinese","Italy",20,52,60,2018
+"17/08","Nigeria","Troost-Ekong","in","Turkey","Other","Udinese","Italy",3.3,102,60,2018
+"04/07","Colombie","Juan Otero","in","Argentina","Other","Amiens","France",2.1,105,61,2018
+"23/08","Iran","Saman Ghoddos","in","Sweden","Other","Amiens","France",4,111,61,2018
+"13/07","RD Congo","H.  Manzala","in","Amiens","France","Angers","France",1,61,62,2018
+"06/08","Nigeria","Samuel Kalu","in","Belgium","Other","Bordeaux","France",8.5,100,63,2018
+"08/08","Croatie","Toma Basic","in","Croatia","Other","Bordeaux","France",3.5,107,63,2018
+"04/07","Tchad","Casimir Ninga","in","Montpellier","France","Caen","France",2,71,64,2018
+"24/07","Maroc","Yacine Bammou","in","Nantes","France","Caen","France",2,72,64,2018
+"03/08","Maroc","Fayçal Fajr","in","Getafe","Spain","Caen","France",2,32,64,2018
+"28/08","France","G.  Fofana","in","Amiens","France","Guingamp","France",1,61,66,2018
+"02/07","France","Jonathan Ikoné","in","Paris S-G","France","Lille","France",5,75,67,2018
+"08/07","Turquie","Zeki Celik","in","Turkey","Other","Lille","France",0.8,102,67,2018
+"31/01","Mozambique","Reinildo","in","Portugal","Other","Lille","France",3,101,67,2018
+"01/07","France","Martin Terrier","in","Lille","France","Lyon","France",11,67,68,2018
+"02/07","France","Tanguy Ndombele","in","Amiens","France","Lyon","France",10,61,68,2018
+"21/08","Belgique","Jason Denayer","in","Manchester City","England","Lyon","France",6.5,13,68,2018
+"20/07","Croatie","Duje Caleta-Car","in","Austria","Other","Marseille","France",19,110,69,2018
+"28/08","Pays-Bas","Kevin Strootman","in","AS Roma","Italy","Marseille","France",25,42,69,2018
+"19/06","France","Willem Geubbels","in","Lyon","France","Monaco","France",20,68,70,2018
+"06/07","Guinée-Bissau","Judilson Pelé","in","Portugal","Other","Monaco","France",10,101,70,2018
+"10/07","Italie","Antonio Barreca","in","Torino","Italy","Monaco","France",12,59,70,2018
+"24/07","Côte d'Ivoire","J.-E. Aholou","in","Strasbourg","France","Monaco","France",14,79,70,2018
+"27/07","Russie","A.  Golovin","in","Russia","Other","Monaco","France",30,109,70,2018
+"28/08","Allemagne","B.  Henrichs","in","Bayer Leverkusen","Germany","Monaco","France",20,82,70,2018
+"02/01","Brésil","Naldo","in","Schalke 04","Germany","Monaco","France",2,95,70,2018
+"10/01","France","Ballo-Touré","in","Lille","France","Monaco","France",11,67,70,2018
+"01/07","Uruguay","Facundo Píriz","in","Russia","Other","Montpellier","France",1,109,71,2018
+"24/07","Algérie","Andy Delort","in","Toulouse FC","France","Montpellier","France",5,80,71,2018
+"16/08","France","Gaëtan Laborde","in","Bordeaux","France","Montpellier","France",5,63,71,2018
+"12/01","Serbie","Mihailo Ristic","in","Russia","Other","Montpellier","France",1.2,109,71,2018
+"27/07","Brésil","Lucas Evangelista","in","Portugal","Other","Nantes","France",4,101,72,2018
+"23/08","Belgique","A.  Limbombe","in","Belgium","Other","Nantes","France",8,100,72,2018
+"10/06","Brésil","Danilo","in","Portugal","Other","Nice","France",12,101,73,2018
+"17/07","Algérie","Youcef Atal","in","Belgium","Other","Nice","France",3,100,73,2018
+"13/08","France","Myziane Maolida","in","Lyon","France","Nice","France",10,68,73,2018
+"17/07","France","Kylian Mbappé","in","Monaco","France","Paris S-G","France",180,70,75,2018
+"16/08","Allemagne","Thilo Kehrer","in","Schalke 04","Germany","Paris S-G","France",37,95,75,2018
+"31/08","Espagne","Juan Bernat","in","Bayern Munich","Germany","Paris S-G","France",5,83,75,2018
+"29/01","Argentine","Leandro Paredes","in","Russia","Other","Paris S-G","France",47,109,75,2018
+"22/06","Côte d'Ivoire","Konan","in","Portugal","Other","Reims","France",2,101,76,2018
+"31/08","Belgique","Thomas Foket","in","Belgium","Other","Reims","France",3.5,100,76,2018
+"26/01","Kosovo","Arber Zeneli","in","Netherlands","Other","Reims","France",4,104,76,2018
+"12/06","France","J.  Siebatcheu","in","Reims","France","Rennes","France",12,76,77,2018
+"21/06","France","Del Castillo","in","Lyon","France","Rennes","France",2,68,77,2018
+"24/07","France","C.  Grenier","in","Guingamp","France","Rennes","France",4,66,77,2018
+"30/08","Sénégal","Mbaye Niang","in","Torino","Italy","Rennes","France",15,59,77,2018
+"15/01","Côte d'Ivoire","S.  Doumbia","in","Switzerland","Other","Rennes","France",3,106,77,2018
+"16/08","France","Rémy Cabella","in","Marseille","France","Saint-Etienne","France",5,69,78,2018
+"05/06","Serbie","Stefan Mitrovic","in","Belgium","Other","Strasbourg","France",3,100,79,2018
+"26/07","Belgique","Matz Sels","in","Newcastle United","England","Strasbourg","France",4,15,79,2018
+"17/08","France","Lionel Carole","in","Turkey","Other","Strasbourg","France",0.75,102,79,2018
+"30/08","Afrique du Sud","Lebo Mothiba","in","Lille","France","Strasbourg","France",4,67,79,2018
+"28/06","France","Baptiste Reynet","in","Dijon","France","Toulouse FC","France",4,65,80,2018
+"01/07","Côte d'Ivoire","M.-A. Gradel","in","Bournemouth","England","Toulouse FC","France",2,2,80,2018
+"01/07","Belgique","A.  Leya Iseka","in","Belgium","Other","Toulouse FC","France",1.3,100,80,2018
+"01/07","RD Congo","Firmin Mubele","in","Rennes","France","Toulouse FC","France",5,77,80,2018
+"02/07","Trinité et Tobago","John Bostock","in","Turkey","Other","Toulouse FC","France",0.7,102,80,2018
+"01/07","Finlande","Fredrik Jensen","in","Netherlands","Other","Augsburg","Germany",3,104,81,2018
+"15/07","Brésil","Paulinho","in","Brazil","Other","Bayer Leverkusen","Germany",26.4,103,82,2018
+"07/06","Danemark","Thomas Delaney","in","Werder Bremen","Germany","Dortmund","Germany",20,97,84,2018
+"26/06","France","Abdou Diallo","in","Mainz","Germany","Dortmund","Germany",28,92,84,2018
+"01/07","Allemagne","Marius Wolf","in","E Francfort","Germany","Dortmund","Germany",5,87,84,2018
+"06/08","Belgique","Axel Witsel","in","China","Other","Dortmund","Germany",20,99,84,2018
+"28/08","Espagne","Paco Alcácer","in","FC Barcelona","Spain","Dortmund","Germany",23,28,84,2018
+"14/01","Argentine","L.  Balerdi","in","Argentina","Other","Dortmund","Germany",15,105,84,2018
+"29/06","Suisse","Michael Lang","in","Switzerland","Other","M'gladbach","Germany",2.8,106,85,2018
+"13/07","France","Alassane Pléa","in","Nice","France","M'gladbach","Germany",25,73,85,2018
+"01/07","Danemark","F.  Rönnow","in","Denmark","Other","E Francfort","Germany",2.8,108,87,2018
+"31/01","Mali","Almamy Touré","in","Monaco","France","E Francfort","Germany",0.75,70,87,2018
+"01/07","Allemagne","Jerôme Gondorf","in","Werder Bremen","Germany","Freiburg","Germany",1.3,97,88,2018
+"01/07","Japon","Genki Haraguchi","in","Düsseldorf","Germany","Hannover 96","Germany",4.5,86,89,2018
+"01/07","Autriche","V.  Lazaro","in","Austria","Other","Hertha Berlin","Germany",7,110,90,2018
+"01/07","Italie","Vincenzo Grifo","in","M'gladbach","Germany","Hoffenheim","Germany",5.5,85,91,2018
+"25/07","Ghana","Kasim Nuhu","in","Switzerland","Other","Hoffenheim","Germany",8,106,91,2018
+"28/06","France","J.-P. Mateta","in","Lyon","France","Mainz","Germany",10,68,92,2018
+"05/08","Espagne","Aarón Martín","in","Espanyol","Spain","Mainz","Germany",10,27,92,2018
+"27/08","Pays-Bas","J.-P. Boëtius","in","Netherlands","Other","Mainz","Germany",3.5,104,92,2018
+"12/06","Uruguay","M.  Saracchi","in","Argentina","Other","RB Leipzig","Germany",13.5,105,94,2018
+"24/06","Brésil","Matheus Cunha","in","Switzerland","Other","RB Leipzig","Germany",15,106,94,2018
+"01/07","France","Nordi Mukiele","in","Montpellier","France","RB Leipzig","Germany",16,71,94,2018
+"01/01","Mali","Amadou Haidara","in","Austria","Other","RB Leipzig","Germany",18,110,94,2018
+"01/07","Sénégal","Salif Sané","in","Hannover 96","Germany","Schalke 04","Germany",8,89,95,2018
+"01/07","Allemagne","Suat Serdar","in","Mainz","Germany","Schalke 04","Germany",11,92,95,2018
+"02/07","Espagne","Omar Mascarell","in","Real Madrid","Spain","Schalke 04","Germany",10,37,95,2018
+"17/08","Maroc","Hamza Mendyl","in","Lille","France","Schalke 04","Germany",6,67,95,2018
+"28/08","Allemagne","Sebastian Rudy","in","Bayern Munich","Germany","Schalke 04","Germany",16,83,95,2018
+"29/06","Allemagne","Gonzalo Castro","in","Dortmund","Germany","Stuttgart","Germany",5,84,96,2018
+"01/07","Espagne","Pablo Maffeo","in","Manchester City","England","Stuttgart","Germany",10,13,96,2018
+"01/07","Croatie","Borna Sosa","in","Croatia","Other","Stuttgart","Germany",8,107,96,2018
+"10/07","Argentine","N.  González","in","Argentina","Other","Stuttgart","Germany",8.5,105,96,2018
+"17/01","Turquie","Ozan Kabak","in","Turkey","Other","Stuttgart","Germany",11,102,96,2018
+"12/06","Suède","Felix Beijmo","in","Sweden","Other","Werder Bremen","Germany",3,111,97,2018
+"01/07","Autriche","Martin Harnik","in","Hannover 96","Germany","Werder Bremen","Germany",2,89,97,2018
+"27/07","Pays-Bas","Davy Klaassen","in","Everton","England","Werder Bremen","Germany",13.5,8,97,2018
+"31/08","Turquie","Nuri Sahin","in","Dortmund","Germany","Werder Bremen","Germany",1,84,97,2018
+"26/06","Pays-Bas","Wouter Weghorst","in","Netherlands","Other","Wolfsburg","Germany",11,104,98,2018
+"29/06","Allemagne","Daniel Ginczek","in","Stuttgart","Germany","Wolfsburg","Germany",10,96,98,2018
+"01/07","Autriche","Pavao Pervan","in","Austria","Other","Wolfsburg","Germany",0.8,110,98,2018
+"06/08","France","J.  Roussillon","in","Montpellier","France","Wolfsburg","Germany",8,71,98,2018
+"01/06","RD Congo","Benik Afobe","out","Bournemouth","England","Wolverhampton","England",14.5,2,20,2018
+"15/06","Espagne","Angeliño","out","Manchester City","England","Netherlands","Other",5,13,104,2018
+"16/07","Pays-Bas","Daley Blind","out","Man United","England","Netherlands","Other",16,14,104,2018
+"23/07","RD Congo","Chancel Mbemba","out","Newcastle United","England","Portugal","Other",9,15,101,2018
+"27/06","Serbie","Dusan Tadic","out","Southampton","England","Netherlands","Other",11.4,16,104,2018
+"17/01","Belgique","Mousa Dembélé","out","Tottenham","England","China","Other",12,17,99,2018
+"23/08","Belgique","Obbi Oularé","out","Watford","England","Belgium","Other",3,18,100,2018
+"04/07","Belgique","Theo Bongonda","out","Celta Vigo","Spain","Belgium","Other",1.6,25,100,2018
+"04/07","Chili","P.  Hernández","out","Celta Vigo","Spain","Argentina","Other",1.4,25,105,2018
+"24/07","Espagne","Joni","out","Celta Vigo","Spain","Atlético Madrid","Spain",6.7,25,23,2018
+"31/01","Brésil","Leo Baptistão","out","Espanyol","Spain","China","Other",6,27,99,2018
+"08/07","Brésil","Paulinho","out","FC Barcelona","Spain","China","Other",47.5,28,99,2018
+"03/07","Belgique","Zakaria Bakkali","out","Valencia CF","Spain","Belgium","Other",1,30,100,2018
+"11/02","Ghana","E.  Boateng","out","Levante","Spain","China","Other",11,35,99,2018
+"01/08","Paraguay","Gustavo Gómez","out","AC Milan","Italy","Brazil","Other",4.5,41,103,2018
+"01/07","Italie","Mattia Caldara","out","Atalanta","Italy","Juventus","Italy",15,43,52,2018
+"04/08","Croatie","Bruno Petkovic","out","Bologna","Italy","Croatia","Other",1.2,44,107,2018
+"14/06","Belgique","Samuel Bastien","out","Chievo Verona","Italy","Belgium","Other",3,46,100,2018
+"01/07","Italie","R.  Saponara","out","Empoli","Italy","Fiorentina","Italy",10.5,47,48,2018
+"31/01","Slovénie","Miha Zajc","out","Empoli","Italy","Turkey","Other",6.5,47,102,2018
+"07/06","Angola","Bruno Gaspar","out","Fiorentina","Italy","Portugal","Other",5,48,101,2018
+"13/07","Italie","Eder","out","Inter Milan","Italy","China","Other",5,51,99,2018
+"01/07","Italie","F.  Margiotta","out","Juventus","Italy","Switzerland","Other",1,52,106,2018
+"01/07","Colombie","Duvan Zapata","out","Napoli","Italy","Sampdoria","Italy",20,54,56,2018
+"14/02","Slovaquie","Marek Hamsik","out","Napoli","Italy","China","Other",15,54,99,2018
+"22/06","Italie","E.  Viviano","out","Sampdoria","Italy","Portugal","Other",2,56,101,2018
+"28/06","Brésil","Danilo Avelar","out","Torino","Italy","Brazil","Other",2,59,103,2018
+"31/08","Serbie","Adem Ljajic","out","Torino","Italy","Turkey","Other",6.5,59,102,2018
+"12/07","Suisse","Silvan Widmer","out","Udinese","Italy","Switzerland","Other",3.9,60,106,2018
+"03/07","Croatie","Ivan Santini","out","Caen","France","Belgium","Other",3,64,100,2018
+"26/06","France","Aldo Kalulu","out","Lyon","France","Switzerland","Other",2.1,68,106,2018
+"31/08","France","Arnaud Souquet","out","Nice","France","Belgium","Other",3,73,100,2018
+"24/07","Pologne","G.  Krychowiak","out","Paris S-G","France","Russia","Other",12.5,75,109,2018
+"06/02","France","Antoine Bernede","out","Paris S-G","France","Austria","Other",3,75,110,2018
+"17/06","Suisse","Saidy Janko","out","Saint-Etienne","France","Portugal","Other",3,78,101,2018
+"09/02","Sénégal","Cheikh M'Bengue","out","Saint-Etienne","France","China","Other",4,78,99,2018
+"09/02","Norvège","Ole Selnaes","out","Saint-Etienne","France","China","Other",5.5,78,99,2018
+"30/01","Allemagne","Sandro Wagner","out","Bayern Munich","Germany","China","Other",5,83,99,2018
+"11/06","Paraguay","Raúl Bobadilla","out","M'gladbach","Germany","Argentina","Other",1.8,85,105,2018
+"01/07","Espagne","Omar Mascarell","out","E Francfort","Germany","Real Madrid","Spain",4,87,37,2018
+"03/07","Bosnie-Herzégovine","Kenan Kodro","out","Mainz","Germany","Denmark","Other",1.6,92,108,2018
+"31/08","Kosovo","Besar Halimi","out","Mainz","Germany","Denmark","Other",0.3,92,108,2018
+"31/07","Allemagne","B.  Höwedes","out","Schalke 04","Germany","Russia","Other",5,95,109,2018
+"02/07","Belgique","Nany Dimata","out","Wolfsburg","Germany","Belgium","Other",5,98,100,2018

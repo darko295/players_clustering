@@ -1,0 +1,186 @@
+TDate,Nat,Name,InOut,ClubFrom,DivFrom,ClubTo,DivTo,Amount,ClubFromID,ClubToID,Year_F,date,month,player_id
+19-Jun,Allemagne,Bernd Leno,in,Bayer Leverkusen,Germany,Arsenal,England,25,82,1,2018,19,6,92173
+02-Jul,Grèce,Papastathopoulos,in,Dortmund,Germany,Arsenal,England,16,84,1,2018,2,7,22210
+10-Jul,Uruguay,Lucas Torreira,in,Sampdoria,Italy,Arsenal,England,30,56,1,2018,10,7,248109
+24-Jul,Espagne,Diego Rico,in,Leganés,Spain,Bournemouth,England,15,34,2,2018,24,7,323352
+07-Aug,Colombie,Jefferson Lerma,in,Levante,Spain,Bournemouth,England,30,35,2,2018,7,8,133464
+05-Jul,Brésil,Bernardo,in,RB Leipzig,Germany,Brighton & Hove,England,10.2,94,3,2018,5,7,302588
+17-Jul,Mali,Yves Bissouma,in,Lille,France,Brighton & Hove,England,16.9,67,3,2018,17,7,303096
+09-Aug,Espagne,Martín Montoya,in,Valencia CF,Spain,Brighton & Hove,England,7,30,3,2018,9,8,91387
+07-Aug,Angleterre,Joe Hart,in,Manchester City,England,Burnley,England,3.9,13,4,2018,7,8,8786
+14-Jul,Italie,Jorginho,in,Napoli,Italy,Chelsea,England,57,54,6,2018,14,7,106968
+08-Aug,Espagne,Arrizabalaga,in,Athletic Bilbao,Spain,Chelsea,England,80,22,6,2018,8,8,113880
+01-Aug,Sénégal,C.  Kouyaté,in,West Ham,England,Crystal Palace,England,10.7,19,7,2018,1,8,66741
+24-Jul,Brésil,Richarlison,in,Watford,England,Everton,England,45,18,8,2018,24,7,317804
+01-Aug,France,Lucas Digne,in,FC Barcelona,Spain,Everton,England,20.2,28,8,2018,1,8,89925
+09-Aug,Portugal,André Gomes,in,FC Barcelona,Spain,Everton,England,25,28,8,2018,9,8,118123
+09-Aug,Colombie,Yerry Mina,in,FC Barcelona,Spain,Everton,England,30.3,28,8,2018,9,8,318432
+12-Jul,Côte d'Ivoire,J.-M. Seri,in,Nice,France,Fulham,England,30,73,9,2018,12,7,136262
+30-Jul,Serbie,A.  Mitrovic,in,Newcastle United,England,Fulham,England,20.2,15,9,2018,30,7,115279
+09-Aug,Cameroun,Zambo Anguissa,in,Marseille,France,Fulham,England,33,69,9,2018,9,8,349561
+20-Jul,France,Adama Diakhaby,in,Monaco,France,Huddersfield,England,10,70,10,2018,20,7,322750
+20-Jul,Pays de Galles,Daniel Ward,in,Liverpool,England,Leicester,England,11.2,12,11,2018,20,7,NA
+05-Aug,Algérie,Rachid Ghezzal,in,Monaco,France,Leicester,England,14,70,11,2018,5,8,95423
+09-Aug,Turquie,Caglar Soyuncu,in,Freiburg,Germany,Leicester,England,21,88,11,2018,9,8,317998
+01-Jul,Brésil,Fabinho,in,Monaco,France,Liverpool,England,50,70,12,2018,1,7,115916
+01-Jul,Guinée,Naby Keïta,in,RB Leipzig,Germany,Liverpool,England,55,94,12,2018,1,7,243510
+19-Jul,Brésil,Alisson Becker,in,AS Roma,Italy,Liverpool,England,75,42,12,2018,19,7,114147
+10-Jul,Algérie,Riyad Mahrez,in,Leicester,England,Manchester City,England,70,11,13,2018,10,7,104749
+02-Aug,Japon,Yoshinori Muto,in,Mainz,Germany,Newcastle United,England,10.7,92,15,2018,2,8,132210
+10-Jul,Angleterre,Angus Gunn,in,Manchester City,England,Southampton,England,11.3,13,16,2018,10,7,318896
+13-Jul,Danemark,J.  Vestergaard,in,M'gladbach,Germany,Southampton,England,20,85,16,2018,13,7,87182
+09-Aug,Angleterre,Danny Ings,in,Liverpool,England,Southampton,England,22.2,12,16,2018,9,8,91762
+01-Jul,Espagne,Marc Navarro,in,Espanyol,Spain,Watford,England,2,27,18,2018,1,7,280157
+02-Jul,Italie,Adam Masina,in,Bologna,Italy,Watford,England,5,44,18,2018,2,7,137512
+19-Jun,France,Issa Diop,in,Toulouse FC,France,West Ham,England,25,80,19,2018,19,6,300359
+11-Jul,Ukraine,A.  Yarmolenko,in,Dortmund,Germany,West Ham,England,20,84,19,2018,11,7,41672
+16-Jul,Brésil,Felipe Anderson,in,Lazio,Italy,West Ham,England,40,53,19,2018,16,7,93026
+09-Aug,Espagne,Lucas Pérez,in,Arsenal,England,West Ham,England,4.5,1,19,2018,9,8,135663
+09-Aug,Colombie,Carlos Sánchez,in,Fiorentina,Italy,West Ham,England,4.5,48,19,2018,9,8,26720
+24-Jul,Portugal,João Moutinho,in,Monaco,France,Wolverhampton,England,5.6,70,20,2018,24,7,16161
+25-Jul,Espagne,Joni,in,Atlético Madrid,Spain,Wolverhampton,England,20.6,23,20,2018,25,7,115917
+05-Jul,Espagne,Rubén Sobrino,in,Manchester City,England,Alavés,Spain,2,13,21,2018,5,7,323250
+01-Jul,Espagne,Ander Capa,in,Eibar,Spain,Athletic Bilbao,Spain,3,26,22,2018,1,7,130377
+02-Jul,Espagne,Yuri Berchiche,in,Paris S-G,France,Athletic Bilbao,Spain,24,75,22,2018,2,7,56057
+19-Jun,France,Thomas Lemar,in,Monaco,France,Atlético Madrid,Spain,65,70,23,2018,19,6,132962
+01-Jul,Espagne,Rodri,in,Villarreal,Spain,Atlético Madrid,Spain,25,40,23,2018,1,7,303139
+05-Jul,Espagne,Antonio Adán,in,Real Betis,Spain,Atlético Madrid,Spain,1,24,23,2018,5,7,23285
+09-Aug,Croatie,Nikola Kalinic,in,AC Milan,Italy,Atlético Madrid,Spain,15,41,23,2018,9,8,25091
+31-Aug,Argentine,G.  Lo Celso,in,Paris S-G,France,Real Betis,Spain,25,75,24,2018,31,8,303908
+30-Aug,Argentine,Pablo de Blasis,in,Mainz,Germany,Eibar,Spain,2,92,26,2018,30,8,41395
+09-Jul,Espagne,Borja Iglesias,in,Celta Vigo,Spain,Espanyol,Spain,10,25,27,2018,9,7,259042
+12-Jul,France,C.  Lenglet,in,Sevilla FC,Spain,FC Barcelona,Spain,35.9,29,28,2018,12,7,236511
+24-Jul,Brésil,Malcom,in,Bordeaux,France,FC Barcelona,Spain,41,63,28,2018,24,7,146780
+03-Aug,Chili,Arturo Vidal,in,Bayern Munich,Germany,FC Barcelona,Spain,18,83,28,2018,3,8,25008
+01-Jul,Cameroun,Ibrahim Amadou,in,Lille,France,Sevilla FC,Spain,15,67,29,2018,1,7,118885
+25-Jul,Espagne,Sergi Gomez,in,Celta Vigo,Spain,Sevilla FC,Spain,5,25,29,2018,25,7,90778
+26-Jul,France,Joris Gnagnon,in,Rennes,France,Sevilla FC,Spain,15,77,29,2018,26,7,298545
+04-Aug,Espagne,Aleix Vidal,in,FC Barcelona,Spain,Sevilla FC,Spain,8.5,28,29,2018,4,8,82630
+28-Jun,France,M.  Diakhaby,in,Lyon,France,Valencia CF,Spain,15,68,30,2018,28,6,322095
+09-Jul,Danemark,Daniel Wass,in,Celta Vigo,Spain,Valencia CF,Spain,6,25,30,2018,9,7,27254
+12-Aug,France,Kevin Gameiro,in,Atlético Madrid,Spain,Valencia CF,Spain,16,23,30,2018,12,8,19453
+28-Aug,Portugal,Gonçalo Guedes,in,Paris S-G,France,Valencia CF,Spain,40,75,30,2018,28,8,247995
+12-Jul,Serbie,N.  Maksimovic,in,Valencia CF,Spain,Getafe,Spain,5.5,30,32,2018,12,7,296367
+13-Jul,Espagne,David Soria,in,Sevilla FC,Spain,Getafe,Spain,3,29,32,2018,13,7,243262
+26-Jul,Espagne,Iván Alejo,in,Eibar,Spain,Getafe,Spain,4,26,32,2018,26,7,280027
+01-Jul,Espagne,Alberto,in,Getafe,Spain,Rayo Vallecano,Spain,0.5,32,36,2018,1,7,31685
+23-Jul,Uruguay,E.  Velázquez,in,Atlético Madrid,Spain,Rayo Vallecano,Spain,1,23,36,2018,23,7,120114
+08-Aug,Belgique,T.  Courtois,in,Chelsea,England,Real Madrid,Spain,35,6,37,2018,8,8,73798
+29-Aug,République Dominicaine,Mariano,in,Lyon,France,Real Madrid,Spain,21.5,68,37,2018,29,8,323236
+12-Jul,Espagne,Mikel Merino,in,Newcastle United,England,Real Sociedad,Spain,12,15,38,2018,12,7,238916
+03-Aug,Espagne,Rubén Alcaraz,in,Girona,Spain,Valladolid,Spain,1,31,39,2018,3,8,279711
+07-Jun,Cameroun,K.  Toko Ekambi,in,Angers,France,Villarreal,Spain,18,62,40,2018,7,6,236504
+12-Jun,Espagne,Gerard Moreno,in,Espanyol,Spain,Villarreal,Spain,20,27,40,2018,12,6,97659
+21-Jun,Argentine,R.  Funes Mori,in,Everton,England,Villarreal,Spain,9,8,40,2018,21,6,121454
+16-Aug,Colombie,Carlos Bacca,in,AC Milan,Italy,Villarreal,Spain,7,41,40,2018,16,8,71687
+15-Aug,Uruguay,Diego Laxalt,in,Genoa,Italy,AC Milan,Italy,14,50,41,2018,15,8,135584
+17-Aug,Espagne,S.  Castillejo,in,Villarreal,Spain,AC Milan,Italy,25,40,41,2018,17,8,238773
+25-Jun,Argentine,Javier Pastore,in,Paris S-G,France,AS Roma,Italy,20,75,42,2018,25,6,41220
+01-Jul,Italie,Bryan Cristante,in,Atalanta,Italy,AS Roma,Italy,21,43,42,2018,1,7,109149
+01-Jul,République tchèque,Patrik Schick,in,Sampdoria,Italy,AS Roma,Italy,14,56,42,2018,1,7,243565
+14-Aug,France,Steven N'Zonzi,in,Sevilla FC,Spain,AS Roma,Italy,30,29,42,2018,14,8,39935
+22-Jun,Pologne,L.  Skorupski,in,AS Roma,Italy,Bologna,Italy,9,42,44,2018,22,6,77397
+04-Jul,Italie,D.  Falcinelli,in,Sassuolo,Italy,Bologna,Italy,10,57,44,2018,4,7,79674
+17-Aug,Estonie,Ragnar Klavan,in,Liverpool,England,Cagliari,Italy,1.3,12,45,2018,17,8,10839
+17-Aug,Ghana,Afriyie Acquah,in,Torino,Italy,Empoli,Italy,1,59,47,2018,17,8,91180
+01-Jul,France,Vincent Laurini,in,Empoli,Italy,Fiorentina,Italy,2,47,48,2018,1,7,109062
+02-Jul,France,Alban Lafont,in,Toulouse FC,France,Fiorentina,Italy,7,80,48,2018,2,7,300590
+17-Aug,Italie,Marco Capuano,in,Cagliari,Italy,Frosinone,Italy,1,45,49,2018,17,8,92754
+09-Jul,Italie,Luca Mazzitelli,in,Sassuolo,Italy,Genoa,Italy,8,57,50,2018,9,7,141269
+08-Aug,Italie,Andrea Favilli,in,Juventus,Italy,Genoa,Italy,7,52,50,2018,8,8,297001
+17-Aug,Italie,G.  Lapadula,in,AC Milan,Italy,Genoa,Italy,11,41,50,2018,17,8,95872
+26-Jun,Belgique,R.  Nainggolan,in,AS Roma,Italy,Inter Milan,Italy,38,42,51,2018,26,6,52380
+01-Jul,Italie,Matteo Politano,in,Sassuolo,Italy,Inter Milan,Italy,20,57,51,2018,1,7,122683
+08-Jun,Italie,Mattia Perin,in,Genoa,Italy,Juventus,Italy,12,50,52,2018,8,6,78880
+27-Jun,Portugal,Joao Cancelo,in,Inter Milan,Italy,Juventus,Italy,40.4,51,52,2018,27,6,128967
+01-Jul,Brésil,Douglas Costa,in,Bayern Munich,Germany,Juventus,Italy,46,83,52,2018,1,7,68889
+10-Jul,Portugal,C.  Ronaldo,in,Real Madrid,Spain,Juventus,Italy,117,37,52,2018,10,7,5583
+22-Jun,Danemark,Riza Durmisi,in,Real Betis,Spain,Lazio,Italy,6.5,24,53,2018,22,6,283282
+11-Jul,Italie,F.  Acerbi,in,Sassuolo,Italy,Lazio,Italy,10,57,53,2018,11,7,54968
+31-Jul,Argentine,Joaquin Correa,in,Sevilla FC,Spain,Lazio,Italy,15,29,53,2018,31,7,125378
+01-Jul,Italie,Simone Verdi,in,Bologna,Italy,Napoli,Italy,25,44,54,2018,1,7,82144
+05-Jul,Grèce,O.  Karnezis,in,Udinese,Italy,Napoli,Italy,2.5,60,54,2018,5,7,11624
+05-Jul,Italie,Alex Meret,in,SPAL,Italy,Napoli,Italy,27,58,54,2018,5,7,241022
+05-Jul,Espagne,Fabián Ruiz,in,Real Betis,Spain,Napoli,Italy,30,24,54,2018,5,7,294193
+08-Aug,France,Kévin Malcuit,in,Lille,France,Napoli,Italy,12,67,54,2018,8,8,86512
+17-Aug,Colombie,David Ospina,in,Arsenal,England,Napoli,Italy,3.5,1,54,2018,17,8,36745
+07-Aug,France,J.  Biabiany,in,Inter Milan,Italy,Parma,Italy,1.5,51,55,2018,7,8,41237
+14-Jun,Italie,Alex Ferrari,in,Bologna,Italy,Sampdoria,Italy,4.5,44,56,2018,14,6,130043
+06-Jul,République tchèque,Jakub Jankto,in,Udinese,Italy,Sampdoria,Italy,15,60,56,2018,6,7,254262
+17-Jul,Italie,Emil Audero,in,Juventus,Italy,Sampdoria,Italy,20,52,56,2018,17,7,254692
+24-Jul,France,G.  Defrel,in,AS Roma,Italy,Sampdoria,Italy,20,42,56,2018,24,7,101767
+04-Jul,Italie,Di Francesco,in,Bologna,Italy,Sassuolo,Italy,10,44,57,2018,4,7,128605
+13-Aug,Italie,M.  Locatelli,in,AC Milan,Italy,Sassuolo,Italy,10,41,57,2018,13,8,273539
+16-Aug,Brésil,Marlon,in,FC Barcelona,Spain,Sassuolo,Italy,6,28,57,2018,16,8,131382
+01-Jul,Sénégal,Alfred Gomis,in,Torino,Italy,SPAL,Italy,1.5,59,58,2018,1,7,97213
+01-Jul,Slovénie,Jasmin Kurtic,in,Atalanta,Italy,SPAL,Italy,4.8,43,58,2018,1,7,90287
+19-Jul,Italie,Andrea Petagna,in,Atalanta,Italy,SPAL,Italy,12,43,58,2018,19,7,122296
+13-Aug,Italie,S.  Missiroli,in,Sassuolo,Italy,SPAL,Italy,2.5,57,58,2018,13,8,13348
+16-Aug,Italie,M.  Valdifiori,in,Torino,Italy,SPAL,Italy,1,59,58,2018,16,8,128746
+04-Jul,Italie,Armando Izzo,in,Genoa,Italy,Torino,Italy,8,50,59,2018,4,7,141307
+10-Jul,France,S.  Meïté,in,Monaco,France,Torino,Italy,10,70,59,2018,10,7,105161
+17-Aug,Côte d'Ivoire,Koffi Djidji,in,Nantes,France,Torino,Italy,4.5,72,59,2018,17,8,109835
+17-Aug,Italie,Simone Zaza,in,Valencia CF,Spain,Torino,Italy,12,30,59,2018,17,8,71647
+26-Jul,Italie,R.  Mandragora,in,Juventus,Italy,Udinese,Italy,20,52,60,2018,26,7,241020
+13-Jul,RD Congo,H.  Manzala,in,Amiens,France,Angers,France,1,61,62,2018,13,7,232576
+04-Jul,Tchad,Casimir Ninga,in,Montpellier,France,Caen,France,2,71,64,2018,4,7,298542
+24-Jul,Maroc,Yacine Bammou,in,Nantes,France,Caen,France,2,72,64,2018,24,7,231145
+03-Aug,Maroc,Fayçal Fajr,in,Getafe,Spain,Caen,France,2,32,64,2018,3,8,105026
+28-Aug,France,G.  Fofana,in,Amiens,France,Guingamp,France,1,61,66,2018,28,8,256056
+02-Jul,France,Jonathan Ikoné,in,Paris S-G,France,Lille,France,5,75,67,2018,2,7,322094
+01-Jul,France,Martin Terrier,in,Lille,France,Lyon,France,11,67,68,2018,1,7,329356
+02-Jul,France,Tanguy Ndombele,in,Amiens,France,Lyon,France,10,61,68,2018,2,7,321389
+21-Aug,Belgique,Jason Denayer,in,Manchester City,England,Lyon,France,6.5,13,68,2018,21,8,243511
+28-Aug,Pays-Bas,Kevin Strootman,in,AS Roma,Italy,Marseille,France,25,42,69,2018,28,8,35954
+19-Jun,France,Willem Geubbels,in,Lyon,France,Monaco,France,20,68,70,2018,19,6,345987
+10-Jul,Italie,Antonio Barreca,in,Torino,Italy,Monaco,France,12,59,70,2018,10,7,143524
+24-Jul,Côte d'Ivoire,J.-E. Aholou,in,Strasbourg,France,Monaco,France,14,79,70,2018,24,7,139111
+28-Aug,Allemagne,B.  Henrichs,in,Bayer Leverkusen,Germany,Monaco,France,20,82,70,2018,28,8,296769
+24-Jul,Algérie,Andy Delort,in,Toulouse FC,France,Montpellier,France,5,80,71,2018,24,7,79976
+16-Aug,France,Gaëtan Laborde,in,Bordeaux,France,Montpellier,France,5,63,71,2018,16,8,140051
+13-Aug,France,Myziane Maolida,in,Lyon,France,Nice,France,10,68,73,2018,13,8,336074
+17-Jul,France,Kylian Mbappé,in,Monaco,France,Paris S-G,France,180,70,75,2018,17,7,300713
+16-Aug,Allemagne,Thilo Kehrer,in,Schalke 04,Germany,Paris S-G,France,37,95,75,2018,16,8,255167
+31-Aug,Espagne,Juan Bernat,in,Bayern Munich,Germany,Paris S-G,France,5,83,75,2018,31,8,106894
+12-Jun,France,J.  Siebatcheu,in,Reims,France,Rennes,France,12,76,77,2018,12,6,260812
+21-Jun,France,Del Castillo,in,Lyon,France,Rennes,France,2,68,77,2018,21,6,300291
+24-Jul,France,C.  Grenier,in,Guingamp,France,Rennes,France,4,66,77,2018,24,7,79562
+30-Aug,Sénégal,Mbaye Niang,in,Torino,Italy,Rennes,France,15,59,77,2018,30,8,58761
+16-Aug,France,Rémy Cabella,in,Marseille,France,Saint-Etienne,France,5,69,78,2018,16,8,85693
+26-Jul,Belgique,Matz Sels,in,Newcastle United,England,Strasbourg,France,4,15,79,2018,26,7,78386
+30-Aug,Afrique du Sud,Lebo Mothiba,in,Lille,France,Strasbourg,France,4,67,79,2018,30,8,329620
+28-Jun,France,Baptiste Reynet,in,Dijon,France,Toulouse FC,France,4,65,80,2018,28,6,105028
+01-Jul,Côte d'Ivoire,M.-A. Gradel,in,Bournemouth,England,Toulouse FC,France,2,2,80,2018,1,7,29814
+01-Jul,RD Congo,Firmin Mubele,in,Rennes,France,Toulouse FC,France,5,77,80,2018,1,7,139586
+07-Jun,Danemark,Thomas Delaney,in,Werder Bremen,Germany,Dortmund,Germany,20,97,84,2018,7,6,73744
+26-Jun,France,Abdou Diallo,in,Mainz,Germany,Dortmund,Germany,28,92,84,2018,26,6,248112
+01-Jul,Allemagne,Marius Wolf,in,E Francfort,Germany,Dortmund,Germany,5,87,84,2018,1,7,312666
+28-Aug,Espagne,Paco Alcácer,in,FC Barcelona,Spain,Dortmund,Germany,23,28,84,2018,28,8,95953
+13-Jul,France,Alassane Pléa,in,Nice,France,M'gladbach,Germany,25,73,85,2018,13,7,108585
+01-Jul,Allemagne,Jerôme Gondorf,in,Werder Bremen,Germany,Freiburg,Germany,1.3,97,88,2018,1,7,133505
+01-Jul,Japon,Genki Haraguchi,in,Düsseldorf,Germany,Hannover 96,Germany,4.5,86,89,2018,1,7,238698
+01-Jul,Italie,Vincenzo Grifo,in,M'gladbach,Germany,Hoffenheim,Germany,5.5,85,91,2018,1,7,121192
+28-Jun,France,J.-P. Mateta,in,Lyon,France,Mainz,Germany,10,68,92,2018,28,6,328096
+05-Aug,Espagne,Aarón Martín,in,Espanyol,Spain,Mainz,Germany,10,27,92,2018,5,8,323546
+01-Jul,France,Nordi Mukiele,in,Montpellier,France,RB Leipzig,Germany,16,71,94,2018,1,7,299077
+01-Jul,Sénégal,Salif Sané,in,Hannover 96,Germany,Schalke 04,Germany,8,89,95,2018,1,7,94912
+01-Jul,Allemagne,Suat Serdar,in,Mainz,Germany,Schalke 04,Germany,11,92,95,2018,1,7,296119
+02-Jul,Espagne,Omar Mascarell,in,Real Madrid,Spain,Schalke 04,Germany,10,37,95,2018,2,7,NA
+17-Aug,Maroc,Hamza Mendyl,in,Lille,France,Schalke 04,Germany,6,67,95,2018,17,8,322494
+28-Aug,Allemagne,Sebastian Rudy,in,Bayern Munich,Germany,Schalke 04,Germany,16,83,95,2018,28,8,38649
+29-Jun,Allemagne,Gonzalo Castro,in,Dortmund,Germany,Stuttgart,Germany,5,84,96,2018,29,6,13423
+01-Jul,Espagne,Pablo Maffeo,in,Manchester City,England,Stuttgart,Germany,10,13,96,2018,1,7,294848
+01-Jul,Autriche,Martin Harnik,in,Hannover 96,Germany,Werder Bremen,Germany,2,89,97,2018,1,7,19787
+27-Jul,Pays-Bas,Davy Klaassen,in,Everton,England,Werder Bremen,Germany,13.5,8,97,2018,27,7,108860
+31-Aug,Turquie,Nuri Sahin,in,Dortmund,Germany,Werder Bremen,Germany,1,84,97,2018,31,8,14176
+29-Jun,Allemagne,Daniel Ginczek,in,Stuttgart,Germany,Wolfsburg,Germany,10,96,98,2018,29,6,80388
+06-Aug,France,J.  Roussillon,in,Montpellier,France,Wolfsburg,Germany,8,71,98,2018,6,8,97145
+01-Jun,RD Congo,Benik Afobe,out,Bournemouth,England,Wolverhampton,England,14.5,2,20,2018,1,6,NA
+24-Jul,Espagne,Joni,out,Celta Vigo,Spain,Atlético Madrid,Spain,6.7,25,23,2018,24,7,NA
+01-Jul,Italie,Mattia Caldara,out,Atalanta,Italy,Juventus,Italy,15,43,52,2018,1,7,NA
+01-Jul,Italie,R.  Saponara,out,Empoli,Italy,Fiorentina,Italy,10.5,47,48,2018,1,7,NA
+01-Jul,Colombie,Duvan Zapata,out,Napoli,Italy,Sampdoria,Italy,20,54,56,2018,1,7,NA
+01-Jul,Espagne,Omar Mascarell,out,E Francfort,Germany,Real Madrid,Spain,4,87,37,2018,1,7,NA
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
